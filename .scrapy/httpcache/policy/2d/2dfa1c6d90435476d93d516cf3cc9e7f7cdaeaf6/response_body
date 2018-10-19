@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+75141);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; mso-char-indent-count: 2.0; mso-line-height-rule: exactly; mso-layout-grid-align: none" class=MsoNormal><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" Year="2017" Month="10" Day="26" IsLunarDate="False" IsROCDate="False"><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>10</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">月</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>26</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">日</SPAN></st1:chsdate><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">，省经信委胡学同副主任一行在昆山金健宏副市长、苏州经信委金晓虎副主任、昆山经信委顾向民主任陪同下，对我市企业全流程智能化管控实施情况进行调研。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; mso-char-indent-count: 2.0; mso-line-height-rule: exactly; mso-layout-grid-align: none" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">胡主任一行先后实地调研了萨驰华辰、毅昌科技、友达光电、科森科技、富士康电子工业、研华科技、巨立电梯七家企业。在友达光电，胡主任高度评价该企业充分采集生产线设备各类实时数据，通过建立模型对产品质量进行及时研判和管控，对光电行业企业具有较高的推广应用价值。在研华科技，胡主任仔细听取了企业负责人的汇报，对企业通过向客户提供行业解决方案带动产品销售的做法予以充分肯定，要求陪同调研的省经信委企业信息化处张志平副处长等在全省宣传推介企业生产排程、能源管理实时监测分析和管控的生动案例。胡主任指出，这次调研收获很大，像友达光电、研华科技这样的企业，通过大数据采集分析，找出企业生产经营中的痛点，并在解决痛点的过程中注重锻炼培养自己的研发队伍的做法，对省经信委今后如何有效推进企业智能制造工作具有很强的借鉴意义。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

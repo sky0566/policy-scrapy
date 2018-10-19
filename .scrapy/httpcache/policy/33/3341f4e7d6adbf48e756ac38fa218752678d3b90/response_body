@@ -1,0 +1,119 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+70819);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<TABLE style="WIDTH: 634pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=846>
+<COLGROUP>
+<COL style="WIDTH: 94pt; mso-width-source: userset; mso-width-alt: 4000" width=125>
+<COL style="WIDTH: 101pt; mso-width-source: userset; mso-width-alt: 4320" span=3 width=135>
+<COL style="WIDTH: 83pt; mso-width-source: userset; mso-width-alt: 3552" width=111>
+<COL style="WIDTH: 154pt; mso-width-source: userset; mso-width-alt: 6560" width=205>
+<TBODY>
+<TR style="HEIGHT: 40.5pt" height=54>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; WIDTH: 94pt; HEIGHT: 40.5pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=54 width=125><FONT size=5 face=宋体>准考证号</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; WIDTH: 101pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid" class=xl64 width=135><FONT size=5 face=宋体>笔试成绩(40%)</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; WIDTH: 101pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid" class=xl64 width=135><FONT size=5 face=宋体>面试成绩（60%）</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; WIDTH: 101pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 width=135><FONT size=5 face=宋体>总成绩</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; WIDTH: 83pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 width=111><FONT size=5 face=宋体>排名</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; WIDTH: 154pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 width=205><FONT size=5 face=宋体>备注</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128005</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>60</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>85.67</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>75.402</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>3</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>进入体检</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128006</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>58</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>82</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>72.4</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>9</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>　</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128009</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>66</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>77.33</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>72.798</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>6</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>　</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128010</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>58</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>78</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>70</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>11</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>　</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128019</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>60</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>84.67</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>74.802</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>4</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>进入体检</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128042</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>76</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>78.67</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>77.602</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>2</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>进入体检</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128045</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>62</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>80.33</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>72.998</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>5</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>进入体检</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128048</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>64</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>76.67</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>71.602</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>8</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>　</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128051</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>68</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>71.67</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>70.202</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>10</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>　</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128053</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>60</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>80.33</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>72.198</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>7</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>　</FONT></TD></TR>
+<TR style="HEIGHT: 24.95pt; mso-height-source: userset" height=33>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent; HEIGHT: 24.95pt; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63 height=33><FONT size=5 face=宋体>128056</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>72</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>85.67</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>80.202</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl65 align=right><FONT size=5 face=宋体>1</FONT></TD>
+<TD style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent; BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid" class=xl63><FONT size=5 face=宋体>进入体检</FONT></TD></TR></TBODY></TABLE>
+<P></P>
+<P>体检时间、地点等通知</P>
+</body>
+</html>

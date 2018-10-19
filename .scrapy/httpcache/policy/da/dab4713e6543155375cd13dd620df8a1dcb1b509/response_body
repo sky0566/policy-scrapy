@@ -1,0 +1,31 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+73823);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 21pt; TEXT-INDENT: 24pt"><SPAN style="FONT-FAMILY: 仿宋; COLOR: black; FONT-SIZE: 15pt">因工作需要，根据《昆山市机关事业单位工作人员调动管理办法（试行）》（昆政办发〔<SPAN lang=EN-US>2017</SPAN>〕<SPAN lang=EN-US>7</SPAN>号），决定面向昆山市行政单位公开选调昆山市经济和信息化委员会公务员<SPAN lang=EN-US>1</SPAN>名。经过面试、考察<SPAN lang=EN-US>(</SPAN>政审<SPAN lang=EN-US>)</SPAN>等规定程序，孙霞同志符合录用条件，拟予录用。现对拟录用人员名单予以公示。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 21pt; TEXT-INDENT: 24pt" align=center><SPAN style="FONT-FAMILY: 仿宋; COLOR: black; FONT-SIZE: 15pt">孙<SPAN lang=EN-US><SPAN style="mso-spacerun: yes"> </SPAN></SPAN>霞<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 30pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 15pt">公示期为五个工作日，公示时间：<SPAN lang=EN-US>2017</SPAN>年<SPAN lang=EN-US>9</SPAN>月<SPAN lang=EN-US>11</SPAN>日—<SPAN lang=EN-US>2017</SPAN>年<SPAN lang=EN-US>9</SPAN>月<SPAN lang=EN-US>15</SPAN>日。公示期间，如对公示对象有需要反映的情况，请与经信委监察审计室联系，联系电话：<SPAN lang=EN-US>0512</SPAN>—<SPAN style="COLOR: black" lang=EN-US>57556680</SPAN>。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 21pt; TEXT-INDENT: 24pt" align=right><SPAN style="FONT-FAMILY: 仿宋; COLOR: black; FONT-SIZE: 15pt">昆山市经济和信息化委员会<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 21pt; TEXT-INDENT: 24pt" align=right><SPAN style="FONT-FAMILY: 仿宋; COLOR: black; FONT-SIZE: 15pt" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋; COLOR: black; FONT-SIZE: 15pt">年<SPAN lang=EN-US>9</SPAN>月<SPAN lang=EN-US>8</SPAN>日</SPAN></P>
+</body>
+</html>

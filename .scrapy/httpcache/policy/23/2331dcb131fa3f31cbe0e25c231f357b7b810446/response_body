@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+69818);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly"><FONT face=Calibri><SPAN lang=EN-US style="FONT-SIZE: 16pt; FONT-FAMILY: 仿宋_GB2312; COLOR: black">5</SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 仿宋_GB2312; COLOR: black">月<SPAN lang=EN-US>24</SPAN>日，省经信委会同财政厅、科技厅等相关部门在南京召开全省制造业创新中心建设推进会，省经信委秦雁副主任参加并讲话，昆山</SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: Calibri; mso-bidi-font-size: 14.0pt">智能装备与半导体产业促进中心</SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 仿宋_GB2312; COLOR: black">副主任俞峰做交流发言。会议宣读江苏省第一批制造业创新中心培育建设名单共计<SPAN lang=EN-US>12</SPAN>家，其中昆山智能机器人及成套装备创新中心和小核酸技术应用创新中心入选名单，入选数量同类城市中排名第一。<SPAN lang=EN-US><?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 30pt; TEXT-INDENT: 28.95pt; mso-char-indent-count: 1.81; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 仿宋_GB2312; COLOR: black"><FONT face=Calibri>昆山经信委自<SPAN lang=EN-US>2015</SPAN>年起就开始研究制造业创新中心建设方案，按照省经信委“八有”条件要求，不断完善创新中心软硬件建设和人才队伍培养，摸索找准创新中心功能定位、创新主体、组织架构和运营模式。目前，昆山智能机器人及成套装备创新中心有限公司已注册完成，开始承接合作项目；小核酸技术应用创新中心已明确初期业务范围和服务对象，启动十多个新化合物药物的早期研究。</FONT><SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+71871);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-ALIGN: left; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan; mso-char-indent-count: 2.0" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体" lang=EN-US>8</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体">、<SPAN lang=EN-US>9</SPAN>月份是展会旺季，我委将陆续组织企业参展“第二十届青岛国际机床展览会”、北京机器人大会”、“<SPAN lang=EN-US>2017</SPAN>中国昆山国际机器人及智能装备展览会”和“苏州名优新产品沈阳展销会”（第十六届中国国际装备制造业博览会）等市场开拓活动。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: left; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan; mso-char-indent-count: 2.0" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体">为充分展示昆山经济社会发展成果，帮助企业进行品牌和形象宣传，开拓国内市场，营造优美的视觉和洽谈环境，吸引更多客商前来参观、咨询、洽谈、合作和采购，我委在近期针对上述四场活动陆续召集参展企业召开专题会议，对参展产品、产品运输、参展人员配备、宣传资料准备等多个方面进行布置，并要求企业与广告公司紧密配合，全力打造高品质的昆山展区，力求取得实效。</SPAN></P>
+</body>
+</html>

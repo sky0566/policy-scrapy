@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+70456);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-INDENT: 30pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-SIZE: 15pt" lang=EN-US><FONT face=Calibri>-</FONT><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate IsROCDate="False" IsLunarDate="False" Day="23" Month="6" Year="2017" w:st="on"><FONT face=Calibri>6</FONT><SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri" lang=EN-US><SPAN lang=EN-US>月</SPAN></SPAN><FONT face=Calibri>23</FONT><SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri" lang=EN-US><SPAN lang=EN-US>日</SPAN></SPAN></st1:chsdate><SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri" lang=EN-US>为期八天的“新能源汽车推广应用工作宣传周活动”在我市柏芦广场拉开帷幕。</SPAN><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: 30pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 15pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">此次宣传周活动由昆山市经济和信息化委员会和昆山市新能源汽车推广应用工作领导小组办公室共同举办，活动主题是“节能有我，绿色共享”。活动期间，工作人员向市民详细介绍新能源汽车省市各级财政支持政策，鼓励市民乘坐公共交通工具，骑自行车或步行上下班，在选择购买汽车时优先考虑新能源汽车，达到节能减排，绿色环保的目的。</SPAN><SPAN style="FONT-SIZE: 15pt" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal><SPAN lang=EN-US><o:p><FONT face=Calibri></FONT></o:p></SPAN></P><IMG style="WIDTH: 547px; HEIGHT: 329px" border=1 hspace=3 alt="" vspace=1 align=center src="http://www.ks.gov.cn/Upload_zwgk/ggxx20176201794384015506.gif" width=3485 height=2777></IMG>
+</body>
+</html>

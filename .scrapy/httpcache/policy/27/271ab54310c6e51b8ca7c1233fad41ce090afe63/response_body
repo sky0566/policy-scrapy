@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+75803);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-ALIGN: left; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">近日，省经信委公布了</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">年省认定企业技术中心名单，我市共有丘钛微、永信药品、康沃动力、飞宇精密、福立旺、小小恐龙、京群焊材和中信博</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>8</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">家企业入选。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: left; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal align=left><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>“</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">江苏省认定企业技术中心</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>”</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">在企业技术创新体系和企业自主创新能力建设中具有引导与示范作用。企业入选</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">年省认定企业技术中心，说明其拥有较强的技术优势和技术创新能力；具有较完善的组织机构以及研究、开发和试验条件；在全省工业重点产业中具有技术创新方面示范和导向作用以及行业促进和带动作用。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: left; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">入选企业应以此为契机，发挥其明显优势，加快人才培养和产学合作，加强企业技术中心建设，提高企业创新的质量和效益，促进企业技术进步，推动产业转型升级。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

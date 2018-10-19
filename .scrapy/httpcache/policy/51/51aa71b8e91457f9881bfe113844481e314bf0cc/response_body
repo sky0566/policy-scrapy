@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+71870);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 28pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" Year="2017" Month="7" Day="12" IsLunarDate="False" IsROCDate="False"><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 14pt" lang=EN-US>7</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 14pt">月<SPAN lang=EN-US>12</SPAN>日</SPAN></st1:chsdate><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 14pt">，长三角三网融合创新产品大赛总决赛在南京举行，我市昆山思雷电子科技有限公司的“<SPAN lang=EN-US>HDMI</SPAN>光纤传输线的研发和产业化”和江苏有线昆山分公司的“基于三网融合的‘智慧昆山’公共服务平台”两个项目荣获一等奖，其中思雷电子科技的项目还获得本次大赛并列第一名。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 28pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 14pt">长三角三网融合创新产品大赛由江苏、上海、浙江和安徽四省市经信委联合举办。经过初赛选拔，四省市分别有<SPAN lang=EN-US>5</SPAN>个项目进入总决赛。经过项目路演和专家打分，共评出<SPAN lang=EN-US>8</SPAN>个一等奖和<SPAN lang=EN-US>12</SPAN>个二等奖。据了解，入围总决赛的项目除了将获得各省市经信委的政策扶持外，还将被推荐到世界物联网大会、世界互联网大会以及南京软博会等重大活动进行展示。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

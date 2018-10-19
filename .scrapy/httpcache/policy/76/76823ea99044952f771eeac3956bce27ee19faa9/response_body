@@ -1,0 +1,32 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+69132);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">经省经信委、省财政厅、江苏保监局会商，<SPAN lang=EN-US>2016</SPAN>年符合江苏省重大装备（首台套）保险试点条件的产品共<SPAN lang=EN-US>401</SPAN>个，昆山共有<SPAN lang=EN-US>9</SPAN>家企业产品列入公布名单。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">昆山华辰重机有限公司、昆山开信机械制造有限公司 、昆山市佰奥自动化设备科技有限公司、萨驰华辰机械（苏州）有限公司、昆山东威电镀设备技术有限公司、昆山金箭机械设备有限公司、昆山宝锦激光拼焊有限公司、<A name=_GoBack></A>江苏永年激光成形技术有限公司和苏州镭创光电技术有限公司的产品纳入试点范围。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">其中，江苏永年激光成形技术有限公司是一家主要从事３Ｄ打印技术、激光成形技术、工业机器人技术及设备的研发、制造、和销售的高新技术企业。公司保额为<SPAN lang=EN-US>22.26</SPAN>万的<SPAN lang=EN-US>4</SPAN>台激光选区熔化成形设备，已获得约<SPAN lang=EN-US>17.81</SPAN>万补助资金。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">首台套保险采取生产方投保、购买方受益的方式，打破传统的“谁投保谁受益”模式，政府补贴保费，以市场化方式分散用户风险。实行首台套保险试点有助于企业供需双方在重大技术装备（首台套）产品的推广和使用上实现“双赢”；有利于促进企业的产品创新和产业技术进步。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">重大技术装备是核心战略性产品，进入保险试点，对加快企业创新成果转化使用、提升企业核心竞争力、打造“昆山制造”都具有重要意义。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal><SPAN lang=EN-US><o:p><FONT face=Calibri></FONT></o:p></SPAN></P>
+</body>
+</html>

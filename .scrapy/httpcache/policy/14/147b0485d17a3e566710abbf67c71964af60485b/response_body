@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67767);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">近日，省经信委召开工业技改工作投资电视电话会议，对全省</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>1—2</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">月份工业及技改投资完成情况进行了分析，对当前重点工作进行了布置，特别是对</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">年省技改综合奖补专项申报工作进行了政策宣讲和发动。省技改综合奖补专项政策是一项</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>“</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">普惠制</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>”</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">政策，只要申报企业符合是工业规模以上企业、有技改项目作为支撑、</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2016</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">年企业申报抵扣的固定资产增值税进项税额对应的固定资产投资达到</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>1500</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">万元、没有严重失信行为等条件，均可组织申报，省经信委按照企业投资额和税收贡献等给予综合奖励补助。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">这项政策是省经信委通过整合技改相关财政政策，</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">年首次进行实施，对大力引导和鼓励企业加大技术改造力度，促进制造装备提升，切实降低企业成本，推进供给侧结构性改革，支持实体经济发展具有重要作用。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67429);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" Year="2017" Month="3" Day="7" IsLunarDate="False" IsROCDate="False"><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">年</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>3</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">月</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>7</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">日</SPAN></st1:chsdate><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>-8</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">日，江苏省经济和信息化委员会企业信息化处王成书副处长一行来我市调研企业互联网化服务机构情况，市经信委软件与信息化推进科、省企业信息化协会昆山分会工作人员陪同调研。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">王成书副处长一行先后调研了昆山鸿鹄信息技术服务有限公司、昆山盛纺纳米材料科技股份有限公司、江苏美居客科技发展股份有限公司、昆山国显光电有限公司、江苏飞力达国际物流股份有限公司等</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>5</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">家企业，听取了企业互联网化服务机构现状汇报，了解了企业互联网化解决方案需求情况。王成书副处长对我市相关互联网化服务机构帮助企业实施互联网化提升工作给予了充分肯定。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2016</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">年省经信委首次开展企业互联网化服务机构评选工作，我市有</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>7</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">家企业成功入选第一批企业互联网化重点培育发展服务机构。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

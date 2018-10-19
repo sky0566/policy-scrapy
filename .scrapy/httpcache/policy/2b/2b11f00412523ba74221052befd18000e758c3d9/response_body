@@ -1,0 +1,30 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+75106);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 仿宋_GB2312">省经信委党组副书记、副主任戴跃强会同省财政厅、国税局等部门领导于<SPAN lang=EN-US>10</SPAN>月<SPAN lang=EN-US>20</SPAN>日来昆就工业企业技术改造综合奖补政策落实情况进行现场调研。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 仿宋_GB2312" lang=EN-US>10</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 仿宋_GB2312">月<SPAN lang=EN-US>20</SPAN>日上午分别调研了正新橡胶（中国）有限公司、昆山龙腾光电有限公司两家企业，了解工业企业技术改造综合奖补政策在引导企业加大技改投入、增强发展后劲等方面的作用，并听取了相关政策建议。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 仿宋_GB2312">戴跃强副主任</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">对我市工业企业技改投资情况给予了充分的肯定，同时希望我市工业企业能提振发展信心，力促产业发展工作再上新台阶。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

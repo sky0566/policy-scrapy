@@ -1,0 +1,27 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+71876);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>7</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">月<SPAN lang=EN-US>20</SPAN>日，国务院第四次大督查第七督查组来苏州地区进行现场督查及调研，根据督查组的指示，在苏州市政府办公室的统一安排下，督查组一行<SPAN lang=EN-US>11</SPAN>人分三组来昆督查指导工作，其中我委陪同第三组现场考察周市镇的萨驰华辰及开发区的科森科技，督查组对我市民营企业在企业管理、技术创新、市场开拓方面取得的成绩表示了肯定。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

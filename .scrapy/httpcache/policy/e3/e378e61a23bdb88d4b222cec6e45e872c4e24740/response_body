@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+70169);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 32pt; TEXT-INDENT: 29.05pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; mso-line-height-rule: exactly" class=MsoNormal><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" Year="2017" Month="6" Day="11" IsLunarDate="False" IsROCDate="False"><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 15pt" lang=EN-US>6</SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 15pt">月<SPAN lang=EN-US>11</SPAN>日</SPAN></st1:chsdate><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 15pt">，省经信委和省发改委联合在江苏省会议中心举行了江苏省<SPAN lang=EN-US>2017</SPAN>年全国节能宣传周和低碳日活动启动仪式，省经信委副主任李强出席活动并致辞。我市经信委、重点耗能企业代表参加了此次活动。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 32pt; TEXT-INDENT: 29.05pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 15pt">根据国家统一部署，今年的<st1:chsdate w:st="on" Year="2017" Month="6" Day="11" IsLunarDate="False" IsROCDate="False"><SPAN lang=EN-US>6</SPAN>月<SPAN lang=EN-US>11</SPAN>日</st1:chsdate>至<SPAN lang=EN-US>17</SPAN>日为全国节能宣传周，<st1:chsdate w:st="on" Year="2017" Month="6" Day="13" IsLunarDate="False" IsROCDate="False"><SPAN lang=EN-US>6</SPAN>月<SPAN lang=EN-US>13</SPAN>日</st1:chsdate>为全国低碳日，今年全国节能宣传周活动主题是“节能有我，绿色共享”，全国低碳日活动主题是“工业低碳发展”。活动现场，还邀请专家做了“中国节能低碳技术发展概述”的专题讲座，并举办了节能技术推荐会。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

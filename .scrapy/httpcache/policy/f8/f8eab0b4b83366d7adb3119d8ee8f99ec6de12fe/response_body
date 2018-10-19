@@ -1,0 +1,30 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+74937);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 28pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt 0.2pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly; mso-para-margin-left: .02gd" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt">年<SPAN lang=EN-US>9</SPAN>月中旬，昆山市智能装备与半导体产业促进中心组织了第二期“</SPAN><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri">智能制造与金融支持</SPAN><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt">”主题沙龙活动，由</SPAN><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri">昆山埃克尔软件科技有限公司阎景文总经理担任主持，邀请到</SPAN><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt">昆山市经信委企业综合服务科周晨科长、昆山市智能装备与半导体产业促进中心马维副主任、中国农业银行昆山分行顾宇经理、平安租赁丁莉经理、启迪金服投资有限公司陆晓强经理与机器人应用企业、系统集成商的代表，围绕“智能制造与金融支持”主题展开讨论。在这次活动中大家畅所欲言，总结出以下几点：<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 31.5pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋; mso-fareast-font-family: 仿宋" lang=EN-US><FONT face=Calibri>1. </FONT></SPAN><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri">金融支持的作用在于，金融业通过自身的金融行为促进资金产出率和经济运行效率的提高，从而起到缓解资金供求矛盾、支持地方经济发展的作用。昆山目前出台的“一中心两基金”、小微企业贷及投资联动贷等贷款模式，正是充分发挥金融支持作用，从而减少小微企业智能制造改造风险，带动智能制造发展。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋; mso-fareast-font-family: 仿宋" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋; mso-fareast-font-family: 仿宋" lang=EN-US><FONT face=Calibri>2. </FONT></SPAN><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri">金融支持，对经济发展具有推动与润滑作用；机器换人应用企业的智能制造体系，是考核指标；系统集成商（供应方）则相当于监管对象。这次金融方面我们邀请到昆山农业银行、平安租赁、启迪金服三家公司，与系统集成商和机器换人应用企业共同商讨，关于小微企业及技改方面的金融支持方式。从案例来看，农业银行目前有国内首套智能制造系统的研发案例；平安租赁拥有专业团队，在昆山有多数规下企业的支持案例；启迪金服出台了小微企业投资联动贷，都对推动企业发展起到了举足轻重的作用。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋; mso-fareast-font-family: 仿宋" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 31.5pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋; mso-fareast-font-family: 仿宋" lang=EN-US><FONT face=Calibri>3. </FONT></SPAN><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri">昆山要以金融企业为桥梁做品牌推动，加大金融支持力度，加强政府与金融企业在投贷政策方面的对接，整合昆山系统集成能力，共同加速智能制造改造进度。</SPAN></P>
+</body>
+</html>

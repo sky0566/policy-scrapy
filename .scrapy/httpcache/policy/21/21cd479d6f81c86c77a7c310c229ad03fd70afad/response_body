@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+74942);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 31.35pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 1.96" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>10</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">月<SPAN lang=EN-US>12</SPAN>日，中国半导体行业协会<SPAN lang=EN-US>(CSIA)</SPAN>集成电路分会执行副理事长于燮康一行来昆山调研，并实地走访了能讯、艾森半导体等企业。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">为鼓励我市半导体产业链协同发展，<SPAN lang=EN-US>7</SPAN>月份，经信委组织发动全市重点半导体企业成立了昆山市半导体行业协会。协会成立后，积极对接长三角各地区行业协会，加强沟通联络，创新服务方式方法，帮助会员搭建合作渠道和争取向上资源。于燮康一行就中国半导体行业现状、国家集成电路封测产业链技术创新战略联盟的作用和相关行业协会的工作进行了介绍，并希望昆山协会进一步加强与联盟、协会的深入合作。他指出，当前是半导体产业绝好的发展机会，不仅有国家的战略支持，更有丰富的资本支持，昆山应抓住国家政策和大基金项目相关支持的契机，加大投入，调整布局，为中国半导体行业发展做出更大的贡献。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">半导体行业是市委十三届三次会议确定重点培养做大做强的产业集群之一，今年以来澜起科技、中科曙光等一批百亿级龙头项目陆续落地昆山，经信委组织制定了《昆山市集成电路产业发展规划》（<SPAN lang=EN-US>2017-2021</SPAN>）和产业扶持政策（送审中），目的就是要将我市打造为全国乃至全球半导体产业的重要基地。<SPAN lang=EN-US>2017</SPAN>年，我市半导体产业产值增速预计将达<SPAN lang=EN-US>30%</SPAN>以上。</SPAN></P>
+</body>
+</html>

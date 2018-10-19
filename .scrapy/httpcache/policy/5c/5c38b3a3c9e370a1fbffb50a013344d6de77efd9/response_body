@@ -1,0 +1,30 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+75142);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''">为更好地服务产业和企业人才需求，<SPAN lang=EN-US>10</SPAN>月<SPAN lang=EN-US>16</SPAN>日，市经信委会同昆山智能机器人及成套装备协会和部分企业商讨筹建昆山机器人联合学院，计划通过统筹高校、技术、人才等资源，促进协会牵头校企合作，发挥各自优势，共同建立培养大批技术技能型、复合技能型和知识技能型人才的创新体系。具体分工包括：<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''">协会和联合学院：根据企业提出的高新技术项目需求和技术难题，组织力量进行研究开发、成果转化和技术攻关，支持协会成员技术创新。协助企业做好人才的培养、技术咨询、技术培训和职业技能鉴定工作，为企业的长远发展、战略定位、提高自主创新能力提供支持，促进智能制造行业的整体发展。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''">企业成员：充分利用自身设备和生产技术为协会和学院提供生产试验条件和实训基地，并合作共建产学研结合示范基地。接收学院教师到企业进行生产实践，为进行技术研究提供良好的大生产试验条件，优先安排项目和课题，合作完成科研任务。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''">目前，已有<SPAN lang=EN-US>20</SPAN>家企业就筹建“昆山机器人联合学院”建立联络群，相关筹备工作正在有序开展，力争在制造业领域内产学研对接方面打造新模式、实现新突破。</SPAN></P>
+</body>
+</html>

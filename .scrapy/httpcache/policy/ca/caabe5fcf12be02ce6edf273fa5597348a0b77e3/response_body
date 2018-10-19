@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+75144);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''">日前，我市沪光汽车电器有限公司汽车线束智能工厂被工信部认定为<SPAN lang=EN-US>2017</SPAN>年智能制造试点示范项目。智能制造试点示范项目是为落实《中国制造<SPAN lang=EN-US>2025</SPAN>》总体部署，按照《智能制造发展规划（<SPAN lang=EN-US>2016-2020</SPAN>）》、《智能制造工程实施指南（<SPAN lang=EN-US>2016-2020</SPAN>年）》的要求开展的制造领域国家级标杆项目。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''">昆山沪光汽车线束智能工厂围绕工厂架构智能化、研发设计智能化、生产过程智能化和仓储物流智能化四条主线，在汽车线束的研发设计、实验室验证、生产过程、仓储物流、产品质量等多领域进行智能化建设。目前，昆山沪光已经完成第一阶段 “原材料—半成品—成品”全过程的智能化仓储和智能派送系统建设，单体设备的自动化、智能化技术改造升级和物理实验室的前沿技术建设，实现产品规划、设计、加工、检测的全流程数字化、智能化管理。此次昆山沪光入选智能制造试点示范项目，是对其在智能制造转型升级方面的肯定，对其他企业转型升级和智能制造有着的示范和借鉴作用。</SPAN></P>
+</body>
+</html>

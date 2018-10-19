@@ -1,0 +1,31 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67424);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-bidi-font-family: ''Times New Roman''; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-ascii-font-family: ''Times New Roman''">
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" Year="2017" Month="3" Day="10" IsLunarDate="False" IsROCDate="False"><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>3</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">月<SPAN lang=EN-US>10</SPAN>日</SPAN></st1:chsdate><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">下午，市经信委联合人民银行召开了工业企业转贷应急资金银行推介会，全市<SPAN lang=EN-US>20</SPAN>余家未签约的中资银行代表参加了会议。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">会上由经信委代表市工业企业转贷应急资金领导小组办公室对《昆山市工业企业转贷应急资金管理办法》进行解读，对转贷应急资金设立的目的、定义、费率、使用对象、使用程序等方面做详细说明。随后昆山市创杰资产管理服务公司作为转贷资金管理平台汇报了转贷资金设立后运行情况及合作要求，最后农商行、中国银行及昆仑重工分别作为合作银行代表和转贷资金使用企业代表做了交流发言。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">昆山市工业企业转贷应急资金自<SPAN lang=EN-US>2016</SPAN>年<SPAN lang=EN-US>9</SPAN>月正式运行以来已办理<SPAN lang=EN-US>29</SPAN>笔业务，累计使用转贷应急资金<SPAN lang=EN-US>2.4</SPAN>亿元，为企业节约融资成本<SPAN lang=EN-US>175</SPAN>万余元，收到了企业的热烈欢迎。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P></SPAN></P>
+</body>
+</html>

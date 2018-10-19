@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+74938);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32.3pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt">在刚刚结束的第三届互联网<SUP><SPAN lang=EN-US>+</SPAN></SUP>大赛中，昆山鲲鹏易飞无人机项目从全国<SPAN lang=EN-US>37.7</SPAN>万个中一路走来，最后取得了总决赛第五名的成绩，获得了金奖、最佳人气奖，创始人王阳得到了最佳优秀导师奖！<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32.3pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt">提到“无人机”，很多人首先想到的可能就是玩具、航模、或是航拍工具。除了用于娱乐、拍摄的消费级无人机，还有一些无人机要完成电力线巡检、林业监测等特殊任务，这便是行业级无人机。由于完成的任务特殊，对无人机的作业半径、作业效率等都有较高要求，而目前市场上的行业无人机产品存在机型不理想、智能化水平不高两大痛点。除了硬件方面“强强联合”，易飞无人机的“驾驶员”也十分聪明。该无人机在嵌入式<SPAN lang=EN-US>GPU</SPAN>的基础上搭建了一套机载深度学习框架，配备了先进的人工智能系统。下一步根据行业用户的具体需求，可以为其定制化地开发行业无人机软硬件整体解决方案。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32.3pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt">负责项目机载人工智能系统研发的吴鑫说：“我们这套系统可以实现一键起飞、远距离自动巡航、部分作业自主完成、一键返航降落的‘傻瓜式’操作。我们的目标就是要将行业无人机打造成一款真正的空中机器人。”<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67662);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">截止</SPAN><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" IsROCDate="False" IsLunarDate="False" Day="31" Month="3" Year="2017"><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>3</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">月</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>31</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">日</SPAN></st1:chsdate><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">，昆山市工业经济转型升级创新发展专项资金项目网上申报圆满画上句号。在一个月内，通过网站、微信公众号、专题辅导会、电话咨询等多种形式并举，宣传鼓励政策，辅导企业操作，达到了预期的效果，据统计，本次企业共申报项目</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>596</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">个，申请补助资金</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>5.19</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">亿元。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">市经信委将对申报项目进行分类处理，简易程序项目经审核后争取本月底上报市政府审批；一般程序项目，本月内通过初审确定项目名单，并对审计事务所进行业务培训，通知企业安排项目审计。市经信委将本着科学、公正兼顾效率的原则，根据项目审核完成进度，分期拨付专项资金。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

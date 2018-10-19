@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+74939);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">根据《关于推进转型升级创新发展财政扶持若干政策》（昆委</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>[2015]28</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">号）的相关要求，</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">年市重点技改扶持资金项目共有</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>64</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">个项目通过初审，投资规划科根据初审名单组织专家团队对企业提供申报材料进行现场验收，验收主要内容为企业技改项目的自动化水平、投入情况等，并对申报材料的真实性加以核对，同时专家团队根据企业提交材料和现场勘查情况等完成评估报告，目前专家验收报告已经基本完成。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">专家验收报告是重点技改项目扶持资金发放的重要依据，相关工作完成后投资规划科将根据企业申报材料和专家验收意见等对技改扶持资金进行核算和公示，并尽快完成技改资金的发放工作。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

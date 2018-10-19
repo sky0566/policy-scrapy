@@ -1,0 +1,32 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+69817);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt">根据省经信委、省财政厅《关于组织申报<SPAN lang=EN-US>2017</SPAN>年度江苏省工业企业技术改造综合奖补资金的通知》的要求，经企业申报，昆山市经信委、财政局、统计局联合初审，共有华天科技（昆山）电子有限公司等<SPAN lang=EN-US>72</SPAN>家企业符合相关申报要求，约占苏州全市申报企业数的<SPAN lang=EN-US>30%</SPAN>，在苏州各区市中排第一。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt">从经济效益指标来看，<SPAN lang=EN-US>71</SPAN>家企业<SPAN lang=EN-US>2016</SPAN>年实现销售收入<SPAN lang=EN-US>969.71</SPAN>亿元，同比增长<SPAN lang=EN-US>33.5%</SPAN>；<SPAN lang=EN-US>2016</SPAN>年实现利润<SPAN lang=EN-US>97.08</SPAN>亿元，同比增长<SPAN lang=EN-US>21.6%</SPAN>。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt">分产业分类情况：新兴产业48家，传统产业<SPAN lang=EN-US>23</SPAN>家。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt">分区镇情况：开发区<SPAN lang=EN-US>19</SPAN>家，高新区<SPAN lang=EN-US>8</SPAN>家，花桥开发区<SPAN lang=EN-US>5</SPAN>家，张浦镇<SPAN lang=EN-US>8</SPAN>家，周市镇<SPAN lang=EN-US>4</SPAN>家，陆家镇<SPAN lang=EN-US>6</SPAN>家，巴城镇<SPAN lang=EN-US>6</SPAN>家，千灯镇<SPAN lang=EN-US>6</SPAN>家，淀山湖镇<SPAN lang=EN-US>2</SPAN>家，周庄镇<SPAN lang=EN-US>1</SPAN>家，锦溪镇<SPAN lang=EN-US>6</SPAN>家。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt">分行业情况：食品制造业<SPAN lang=EN-US>1</SPAN>家，纺织业<SPAN lang=EN-US>1</SPAN>家，造纸和纸制品业<SPAN lang=EN-US>1</SPAN>家，印刷和记录媒介复制业<SPAN lang=EN-US>3</SPAN>家，化学原料和化学制品制造业<SPAN lang=EN-US>3</SPAN>家，橡胶和塑料制品业<SPAN lang=EN-US>4</SPAN>家，有色金属冶炼和压延加工业<SPAN lang=EN-US>3</SPAN>家，金属制品业<SPAN lang=EN-US>3</SPAN>家，通用设备制造业<SPAN lang=EN-US>3</SPAN>家，专用设备制造业<SPAN lang=EN-US>6</SPAN>家，汽车制造业<SPAN lang=EN-US>11</SPAN>家，铁路、船舶、航空航天和其他运输设备制造业<SPAN lang=EN-US>1</SPAN>家，电气机械和器材制造业<SPAN lang=EN-US>3</SPAN>家，计算机、通信和其他电子设备制造业<SPAN lang=EN-US>27</SPAN>家，仪器仪表制造业<SPAN lang=EN-US>1</SPAN>家。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

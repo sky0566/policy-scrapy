@@ -1,0 +1,27 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+69259);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>5</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">月<SPAN lang=EN-US>16</SPAN>日，经中国仓储服务质量评鉴委员会专家组按《仓储服务质量要求》（<SPAN lang=EN-US>GB/T21071-2007</SPAN>）对江苏大地物流有限责任公司仓储运作管理、运作服务、运作规范、运作环境、信息安全、运作质量等方面进行现场综合考评，公司被认定为“中国仓储服务金牌企业”，这是昆山第二家获此殊荣的物流企业（江苏天合国际物流有限公司于<SPAN lang=EN-US>2015</SPAN>年获评）。下一步，大地物流将对现有仓库进行技术改造，进一步提升仓储服务能力，为昆山经济发展作贡献。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+74223);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32.3pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt" lang=EN-US>9月初</SPAN><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt">，<SPAN lang=EN-US>2017</SPAN>第十一届上海国际工业装配与传输技术展览会（上海国际工业装配展）在上海新国际博览中心开展。据悉，本届展览会行业热点突出，汇聚了近<SPAN lang=EN-US>600</SPAN>家展商及全球众多科研及工业领域的专家学者，共同展示前沿技术。我市有艾派科技有限公司（<SPAN lang=EN-US>APE</SPAN>）、昆山光腾智能机械有限公司、昆山倚天自动化科技股份有限公司以及参加热能分会的思帕新能源（昆山）有限公司参展<SPAN style="mso-bidi-font-weight: bold">。<B><SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></B></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32.3pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt">艾派科技有限公司（<SPAN lang=EN-US>APE</SPAN>）携工业机器人解决方案出席展览会，并于当日上午召开新品发布会，携手在场专家学者展示了前沿技术、研发产品及整体解决方案。<SPAN lang=EN-US>APE</SPAN>作为工业自动化领域的新生力量，依托多元国际化研发团队的创新支撑，在此次上海国际工业装配展上一举推出了五款自主研发的<SPAN lang=EN-US>APE</SPAN>工业机器人。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32.3pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt">昆山倚天自动化科技股份有限公司、昆山开信精工机械股份有限公司成功新三板上市，艾派科技作为第一家自主研发的机器人整机的企业，为我市机器人及智能制造产业奠定了一定的基础。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

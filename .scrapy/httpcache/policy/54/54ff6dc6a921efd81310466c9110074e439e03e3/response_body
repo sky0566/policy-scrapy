@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+74909);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">第一次全国海洋经济调查，是国务院确定开展的一项重大的国情国力调查。对于进一步摸清海洋经济“家底”，实现海洋经济基础数据在全市、全行业的全覆盖和一致性，有效满足海洋经济统计分析、监测预警和评估决策等信息需求，提高对海洋经济的宏观调控能力，科学谋划海洋经济长远发展，都具有十分重要的意义。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">根据江苏省第一次全国海洋经济调查实施方案及苏州市开展海洋经济调查工作实施方案的工作部署，昆山市成立了全国海洋经济调查领导小组，制订了《开展海洋经济调查工作计划》，并于<SPAN lang=EN-US>9</SPAN>月<SPAN lang=EN-US>20</SPAN>日在经信委召开昆山市第一次海洋经济调查工作会议，各区镇，各领导小组成员单位参加。会上就计划实施、业务指导、督促检查和汇总上报等相关工作流程进行了详细介绍及部署，全市海洋经济调查工作就此拉开序幕。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P></P><IMG border=1 hspace=3 alt="" vspace=1 align=center src="http://www.ks.gov.cn/Upload_zwgk/ggxx201710191605967815506.jpg"></IMG>
+</body>
+</html>

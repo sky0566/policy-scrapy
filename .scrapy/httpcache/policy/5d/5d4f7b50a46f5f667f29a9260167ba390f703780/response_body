@@ -1,0 +1,27 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+78605);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 黑体; FONT-SIZE: 16pt">一是领导高度重视。</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">根据苏州市政府针对国家审计署南京特派办对苏州长江经济带生态环境保护情况审计专题协调会议要求，昆山市府办牵头组织发改、经信、统计等部门及各区镇召开紧急会议，全面部署昆山工业集聚区调查工作。</SPAN><SPAN style="FONT-FAMILY: 黑体; FONT-SIZE: 16pt">二是深入开展调查。</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">市经信委明确责任分工、细化时间节点，与各区镇紧急联系、布置任务、沟通要，各区镇迅速行动起来，全面开展辖区内工业聚集区调查工作。</SPAN><SPAN style="FONT-FAMILY: 黑体; FONT-SIZE: 16pt">三是全面统计汇总。</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">经过四天的奋战，全市共排出符合调查清单要求的工业集中区<SPAN lang=EN-US>7</SPAN>个，增补已列入审计对象的化工集中点<SPAN lang=EN-US>1</SPAN>个。分别是昆山经济技术开发区、昆山综合保税区、昆山开发区光电产业园、昆山高新技术开发区、昆山阳澄湖科技园、昆山市千灯精细化工区和昆山张浦东部工业区化工集中点。<SPAN lang=EN-US>8</SPAN>个工业集中区均无占用基本农田、自然保护区、风景名胜区等情况。 <SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

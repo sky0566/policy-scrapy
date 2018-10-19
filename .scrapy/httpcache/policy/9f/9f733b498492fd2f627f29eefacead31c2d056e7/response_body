@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+70943);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt" lang=EN-US>6</SPAN><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">月<SPAN lang=EN-US>25</SPAN>日，<SPAN lang=EN-US>2017</SPAN>中国焊接产业论坛在昆山皇冠国际会展酒店举行。围绕<SPAN lang=EN-US>“</SPAN>高效焊接技术和应用<SPAN lang=EN-US>”</SPAN>这一主题，国内外专家学者汇聚一堂，共同研讨，协同推进焊接技术的研究、应用和发展。中国机械工程学会监事长宋天虎、副市长金健宏出席论坛。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">中国焊接产业论坛由中国焊接协会主办，是年度行业交流盛会，既为发展焊接自动化和智能化技术提供了一个研讨交流的机会，也为焊接技术装备的产学研搭建了一个合作平台。论坛以特邀报告形式，邀请<SPAN lang=EN-US>12</SPAN>位国内外知名焊接专家作专题报告，引导行业合理应用和推广高效智能焊接技术。市经信委相关负责人表示，焊接技术是制造业的基础工艺和关键技术，在现代制造业中占据着非常重要的位置。活动举办不仅对行业自身发展起到重要作用，而且将对昆山发展高端装备产业、深度推进智能制造起到关键助推作用。我市智能装备与半导体产业促进中心马维副主任也在论坛中以吸引企业入昆发展为目的，就昆山产业特色、政策支持等内容进行了报告。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋; FONT-SIZE: 16pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">近年来，我市以焊接智能装备为核心，在焊接自动化顶级关键技术协同研发和细分领域应用中，均取得显著进步，逐步得到市场认可，尤其在<SPAN lang=EN-US>“</SPAN>全自动激光拼板自动化生产线<SPAN lang=EN-US>”“</SPAN>搅拌摩擦焊接<SPAN lang=EN-US>”“3D</SPAN>打印<SPAN lang=EN-US>”</SPAN>等领域，已具备国内乃至国际先进技术水平。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

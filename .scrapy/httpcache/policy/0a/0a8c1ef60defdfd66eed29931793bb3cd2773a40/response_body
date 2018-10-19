@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+78606);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>2018</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">年<SPAN lang=EN-US>2</SPAN>月<SPAN lang=EN-US>5</SPAN>号，由苏州国家高新技术产业开发管理委员会以及阿里云计算有限公司主办的天池大数据竞赛之天池工业<SPAN lang=EN-US>AI</SPAN>大赛的决赛答辩在友达光电昆山厂举行。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">本次工业<SPAN lang=EN-US>AI</SPAN>大赛以智能质量预测为题，面向全社会开放，历经近四个月的线上比赛，吸引了<B><SPAN lang=EN-US>2529</SPAN></B>支队伍，共<B><SPAN lang=EN-US>2952</SPAN></B>人报名参赛，最终来自北京中油瑞飞信息技术有限公司的团队获得了此次大赛的冠军。我委智能装备与半导体产业促进中心马维副主任到会致辞并向获奖团队颁奖。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

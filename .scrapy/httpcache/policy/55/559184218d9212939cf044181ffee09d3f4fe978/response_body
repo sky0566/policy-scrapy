@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+74941);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">年<SPAN lang=EN-US>10</SPAN>月<SPAN lang=EN-US>11</SPAN>号，由昆山市经济和信息化委员会主办，江苏省企业信息化协会昆山代表处、昆山<SPAN lang=EN-US>CIO</SPAN>联盟、南京慧德信息管理咨询有限公司联合承办的“两化融合与智能制造培训交流研讨会”活动于昆山成功举办！<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">为全面推进两化深度融合及两化融合管理体系贯标工作，本次活动邀请了南京大学博导谢俊元教授、南京慧德信息管理咨询有限公司总经理陆韧刚和两化融合贯标高级咨询师王子颖为前来参会的企业代表从两化融合管理体系理论方法与主要内容、贯标程序与案例分析、相关政策与战略的解读等方面进行了主题分享。昆山国显光电有限公司、震雄铜业集团有限公司、昆山华辰重机有限公司等<SPAN lang=EN-US>30</SPAN>家企业代表参加了此次培训交流研讨会。</SPAN></P>
+</body>
+</html>

@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67432);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" Year="2017" Month="3" Day="3" IsLunarDate="False" IsROCDate="False"><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">年<SPAN lang=EN-US>3</SPAN>月<SPAN lang=EN-US>3</SPAN>日</SPAN></st1:chsdate><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">，昆山市经信委在市委学校举办了“昆山市能效对标活动暨配电变压器能效提升”培训班，本次培训由苏州节能管理进修学院于承办。来自昆山市的<SPAN lang=EN-US>130</SPAN>余家企业相关负责人前来参加此次培训。苏州经信委、苏州节能监察中心的相关专家围绕国家和地方节能与绿色发展政策，电变压器能效提升计划和差别化电价的规定，印制电路板单位产品能源消耗限额，化工、橡胶塑料行业能效指标及计算方法，黑色金属冶炼和压延加工、有色金属冶炼和压延加工、汽车制造业能效指标及计算方法等内容进行了专题授课。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">此次培训班的成功举办，对全市加快推广高效配电变压器，推动实施配电变压器能效领跑者制度，推动高效配电变压器系统应用示范，提高企业的能源利用效率、经济效益和竞争力，缓解经济社会发展面临的能源约束和环境约束、确保经济和社会可持续发展，巩固能源管理体系建立、能源审计、能效之星创建成果等都具有十分重要的意义。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: ''Times New Roman''; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"></SPAN></P>
+</body>
+</html>

@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+75145);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">为认真贯彻落实国务院安委会综合督查反馈意见和省领导批示精神，确保全省安全生产形势稳定，为党的十九大胜利召开营造良好的安全环境，<SPAN lang=EN-US>10</SPAN>月<SPAN lang=EN-US>20</SPAN>日，由我委中小企业局黄雪林副局长带队，我委软件与信息化推进科、科技质量科、陆家镇、花桥镇相关负责人组成的检查组，到陆家镇、花桥镇<SPAN lang=EN-US>3</SPAN>家重点化工企业开展了安全生产大检查、大排查。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">检查组一行先后对昆山市诚信化轻材料有限公司、苏州关西涂料有限公司、昆山恒捷化工科技有限公司开展了安全生产综合督查，通过查看现场、查阅台账、听取汇报，对各企业开展了仔细的排查。检查组每到一处都要求企业负责人充分认识安全生产的重要性，做好自查工作，消除企业在生产过程中的隐患<SPAN lang=EN-US>,</SPAN>切实落实好防范和应急管理措施。</SPAN></P>
+</body>
+</html>

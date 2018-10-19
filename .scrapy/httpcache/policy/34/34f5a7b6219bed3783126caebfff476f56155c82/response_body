@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+70944);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; mso-char-indent-count: 2.0; mso-line-height-rule: exactly; mso-layout-grid-align: none" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">近日，省经信委公布了</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">年江苏省两化深度融合创新（互联网与工业融合创新）示范试点企业名单，我市昆山捷皇电子精密科技有限公司等</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>13</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">家企业被认定为省级两化深度融合创新示范试点企业，其中示范企业</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>1</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">家，试点企业</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>12</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">家。</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; mso-char-indent-count: 2.0; mso-line-height-rule: exactly; mso-layout-grid-align: none" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">近年来我市高度重视两化融合工作，针对不同规模、不同发展水平的各类工业企业，按照</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>“</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">分类指导，梯度推进</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>”</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">原则，多措并举地推进全市工业企业两化融合进程。截至目前，我市累计认定省级两化融合示范企业</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>19</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">家、试点企业</SPAN><SPAN style="FONT-FAMILY: ''Times New Roman'',''serif''; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>140</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-ascii-font-family: ''Times New Roman''">家。</SPAN></P>
+</body>
+</html>

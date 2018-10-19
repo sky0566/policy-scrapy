@@ -1,0 +1,27 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+68453);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">近日，</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-font-kerning: 0pt">为推进廉洁文化建设、充分发挥廉洁文化的教育作用，</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">我委组织开展了</SPAN><SPAN style="FONT-SIZE: 16pt; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>“</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-font-kerning: 0pt">鹿城清风</SPAN><SPAN style="FONT-SIZE: 16pt; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>”</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''; mso-font-kerning: 0pt">廉洁文化月活动，墙改科全体成员积极响应活动号召，认真挑选专题图书，积极开展征文活动。活动中，大家认真学习有关家风、家教书籍资料，教育子女。</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; BACKGROUND: white; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">家庭是社会的基本细胞，是人生的第一所学校。不论时代发生多大变化，不论生活格局发生多大变化，我们都要重视家庭建设，注重家庭、注重家教、注重家风。墙改科全体工作人员将以此次廉洁文化月及征文活动为契机，加强家风、家教建设，对子女严格教育、严格监督，廉洁齐家，自觉带头树立良好家风，引导子女将人生理想融入国家和民族事业之中。</SPAN><SPAN style="BACKGROUND: white; FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+</body>
+</html>

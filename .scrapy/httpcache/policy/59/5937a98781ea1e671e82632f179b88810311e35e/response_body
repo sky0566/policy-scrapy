@@ -1,0 +1,30 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+69216);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">由江苏省经信委指导、昆山经信委承办的“<SPAN lang=EN-US>2017</SPAN>中国焊接产业论坛”将于<SPAN lang=EN-US>6</SPAN>月<SPAN lang=EN-US>24</SPAN>至<SPAN lang=EN-US>26</SPAN>日在昆山举行。为更好地做好相关对接和宣传工作，探讨昆山焊接激光行业的发展，昆山经信委于<SPAN lang=EN-US>2017</SPAN>年<SPAN lang=EN-US>5</SPAN>月<SPAN lang=EN-US>12</SPAN>日召开了“焊接激光行业重点企业座谈会”。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">本次会议邀请了苏州领创激光科技有限公司、昆山华恒焊接股份有限公司、昆山梅塞尔切割焊接<SPAN lang=EN-US>(</SPAN>中国<SPAN lang=EN-US>)</SPAN>有限公司、昆山锐和达激光科技有限公司、昆山乾坤机器制造有限公司、昆山市正业电子有限公司、昆山首镭激光科技有限公司、昆山宝锦激光拼焊有限公司、昆山华辰光电有限公司、昆山万洲特种焊接有限公司、昆山海奕激光科技有限公司、昆山海创力机器人科技有限公司等多家激光焊接企业参加。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">会议主要讨论了对接“<SPAN lang=EN-US>2017</SPAN>中国焊接产业论坛”相关事项和成立昆山激光焊接行业协会相关提议两项议程。研究讨论了“<SPAN lang=EN-US>2017</SPAN>中国焊接产业论坛”昆山方面的宣传策划方案；并就激光行业发展针对是否成立协会进行了研究座谈。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">召开本次激光焊接行业座谈会，增进了我委与昆山焊接激光行业各重点企业的联系，为顺利开展“<SPAN lang=EN-US>2017</SPAN>中国焊接产业论坛”<A name=_GoBack></A>奠定了基础。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

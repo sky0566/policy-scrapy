@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67423);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>3</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">月<SPAN lang=EN-US>15</SPAN>日，市经信委及部分企业赴上海参加中国国际半导体设备与材料展暨研讨会（<SPAN lang=EN-US>SEMICON China</SPAN>），该展会是全球规格最高、规模最大的一次半导体展会，参展厂商的国内外厂商近<SPAN lang=EN-US>900</SPAN>家，包括泛林、英特尔、日月光、中芯国际、长电科技等国内外巨头企业，展示内容覆盖了半导体制造全产业链。光洋化学应用材料等昆山本土企业也参加了本次展会。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 28.95pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 1.81" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">展会展示了世界范围内集成电路产业的最新工艺技术、先进设备和新材料，市经信委与部分参展商达成了后续合作意向，并邀请他们到昆山实地考察，洽谈项目。目前，昆山正在抓紧制定集成电路产业发展指导意见，以更好地推动集成电路产业做优做大做强。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

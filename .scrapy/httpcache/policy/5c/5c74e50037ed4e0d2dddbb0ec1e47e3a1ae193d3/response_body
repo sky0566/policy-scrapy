@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+78099);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-ALIGN: left; LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly; mso-pagination: widow-orphan" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">为加快全市工业企业技术改造步伐，推动制造业提档升级，推进供给侧结构性改革，市委市政府出台了工业企业综合奖补和工业企业技改基金两项扶持企业发展的优惠政策。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: left; LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly; mso-pagination: widow-orphan" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">为使广大工业企业更好的了解政策掌握政策，我委制定了政策宣传计划。在各区镇的配合下，近期启动了下区镇宣贯政策活动。目前已完成花桥、巴城、周市及周庄四个区镇的政策宣贯活动，通过政策解读、现场交流等手段，对企业在理解政策中存在的问题答疑解惑，受到企业的一致好评。下一步，我们将根据前几场宣传活动积累的经验，进一步完善宣传内容和方式，不断提升宣传效果。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

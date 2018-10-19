@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+74925);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-bidi-font-family: ''Times New Roman''">根据苏经信装备<SPAN lang=EN-US>[2017]552</SPAN>号《关于进一步做好江苏省首台套重大装备认定工作的通知》的精神和有关要求，按照《中国制造<SPAN lang=EN-US>2025</SPAN>江苏行动纲要》所明确的重点产业领域，我委精心组织所辖区镇发动相关企业积极申报本地区重点支持产业发展急需、产业化市场化前景良好的智能制造装备、系统和成套生产线。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-bidi-font-family: ''Times New Roman''">经初审，现有昆山开信精工机械股份有限公司等<SPAN lang=EN-US>14</SPAN>家企业申报的“江苏省首台（套）重大装备”项目通过预审并上报。根据申报的情况来看，我市申报的首台套项目主要集中在成套智能化生产线、高端试验设备及关键核心部件三个方面，同时项目申报数及专利数在苏州大市范围内名列前茅，充分反映了我市在高端成套装备方面的整体水平。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-bidi-font-family: ''Times New Roman''" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

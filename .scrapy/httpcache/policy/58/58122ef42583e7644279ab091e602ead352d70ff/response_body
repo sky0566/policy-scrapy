@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+68449);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 31.45pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><FONT size=5><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">为顺利推进</SPAN><SPAN lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">年昆山市工业经济专项资金项目审计工作，</SPAN><SPAN lang=EN-US>4</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">月</SPAN><SPAN lang=EN-US>25</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">日下午，昆山市经信委召集四大会计师事务所，召开了《</SPAN><SPAN lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">年昆山市转型升级创新发展（工业经济）专项资金项目专项审计政策解读会》。</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 31.45pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><FONT size=5><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">解读会上，市经信委监察审计室强调了昆山市工业经济专项资金是昆山市委、市政府为推动我市工业企业实施转型升级创新发展专门设立的财政扶持资金，专项用于支持和引导工业企业组织实施技术创新、科技研发、装备提升、节能减排、淘汰落后产能、载体功能等项目建设，必须认真贯彻落实江苏省人民政府《江苏省省级财政专项资金管理办法》（省政府</SPAN><SPAN lang=EN-US>“</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">第</SPAN><SPAN lang=EN-US>63</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">号令</SPAN><SPAN lang=EN-US>”</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">），并严格执行《昆山市工业经济专项资金监督管理办法》有关规定：遵守专项资金操作规范、实行信用承诺制、采用第三方中介机构的专项审计报告、加强监督检查和信用记录、实施失信联合惩戒制度、严格履行专项资金审计要求。</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 31.45pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''"><FONT size=5>通过此次解读会，各事务所进一步明确了自己的职责，进一步规范了专项审计的流程，为下一步做好专项审计、提高审计质量起到了积极作用。</FONT></SPAN></P>
+</body>
+</html>

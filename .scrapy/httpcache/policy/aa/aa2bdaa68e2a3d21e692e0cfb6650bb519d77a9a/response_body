@@ -1,0 +1,27 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+83245);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-INDENT: 28pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 14pt; mso-bidi-font-family: 宋体">为深入贯彻省墙改办《关于开展<SPAN lang=EN-US>2018</SPAN>年墙改节能宣传周活动的通知》<SPAN lang=EN-US>(</SPAN>苏墙办<SPAN style="BACKGROUND: white; LETTER-SPACING: 3.75pt; COLOR: black" lang=EN-US>[2018]</SPAN><SPAN lang=EN-US>9</SPAN>号<SPAN lang=EN-US>)</SPAN>的文件精神，进一步做好新墙材宣传工作。近日，墙改办工作人员来到昆山市玉山荣祥建材厂、昆山市堡阜新型墙体材料有限公司、昆山宏兴建材有限公司、昆山鑫筑源新型建筑材料有限公司等新墙材生产企业进行实地宣传。通过派发宣传用品、行业标准手册、开展墙材行业专题讲座等形式，进一步<SPAN style="COLOR: #333333">增强企业发展新型墙体材料的意识，提高节约资源，保护环境的社会责任感<SPAN lang=EN-US>,</SPAN>为墙改工作进一步发展营造良好氛围。<SPAN style="BACKGROUND: white" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></SPAN></P>
+</body>
+</html>

@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+78607);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 35pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>2</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">月</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>12</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">日，交通部公布《交通运输部办公厅关于公布无车承运人试点考核合格企业名单的通知》，共有</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>229</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">家无车承运试点企业考核合格。其中，我市江苏飞力达国际物流股份有限公司占据一席。</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 35pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">此次考核自</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>2017</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">年</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>3</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">月</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>6</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">日起实施，</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>29</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">个省（区、市）共筛选确定</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>283</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">家无车承运人试点企业。经过近一年的试点，试点合格企业减至</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>229</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">家。考核合格的试点企业将延续试点期一年，不在考核合格试点企业名单内的企业，将被终止无车承运人试点资格。</SPAN></P>
+</body>
+</html>

@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+73949);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P>市政府办公室关于印发昆山市工业企业资源集约利用综合评价实施细则（试行）的通知</P>
+<P><A href="http://www.ks.gov.cn/Upload_zwgk/ggxx20179139501099615506.doc" target=_ablank>市政府办公室关于印发昆山市工业企业资源集约利用综合评价实施细则（试行）的通知</A></P>
+</body>
+</html>

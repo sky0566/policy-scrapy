@@ -1,0 +1,416 @@
+
+
+
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>昆山市人民政府</title>
+
+	<link rel="stylesheet" href="/public/css/index.css" >
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script src="/public/js/index.js" ></script>
+	<script src="/public/js/default.js" ></script>
+	<script src="/public/js/slider1.js" ></script>
+	<script src="/public/js/responsiveslides.min.js" ></script>
+	<script src="/public/js/L_slide.js"></script>
+	<script src="/public/js/scroll.js"></script>
+
+<!-- 分享2.1 -->   
+<script>
+	window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"32"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+
+</head>
+<body>
+
+<div class="wrap-container">
+		
+		
+    
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="Shortcut Icon" type="image/ico" href="/images/favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>昆山市人民政府</title>
+<link rel="Shortcut Icon" type="image/ico" href="/public/images/favicon.ico" />
+
+<script type="text/javascript">
+	var xx="";
+	//alert(xx);
+	$(document).ready(function(){
+		$.Index.ClickTabs("WCNN-text",xx,"WCNN-active1","WCNL-list");
+	});
+	function searchText1(){
+		var value = $("#searchText").val(); 
+		if(value == "姚林荣" || value == "杜小刚" || value == "张月林" 
+				|| value == "管凤良"  || value == "汤土云" 
+				|| value == "江皓" || value == "金铭" || value == "何苏华" || value == "沈立新" || value == "金健宏" )
+			{
+			document.all.search.action="";
+			document.all.search.action = "/ldxghd?name=" + value;
+			}else{
+				document.all.search.action="";
+				document.all.search.action = "/searchS?searchText=" + value;
+			}
+	}
+	
+	document.onkeydown = function(e){ 
+		var ev = document.all ? window.event : e;
+		      if(ev.keyCode==13)
+		    	  searchText1();
+	}
+	
+	
+
+	function SetHome(obj, url) {
+		try {
+			obj.style.behavior = 'url(#default#homepage)';
+			obj.setHomePage(url);
+		} catch (e) {
+			if (window.netscape) {
+				try {
+					netscape.security.PrivilegeManager
+							.enablePrivilege("UniversalXPConnect");
+				} catch (e) {
+					alert("抱歉，此操作被浏览器拒绝！\n\n请在浏览器地址栏输入“about:config”并回车然后将[signed.applets.codebase_principal_support]设置为'true'");
+				}
+			} else {
+				alert("抱歉，您所使用的浏览器无法完成此操作。\n\n您需要手动将【" + url + "】设置为首页。");
+			}
+		}
+	}
+
+	function AddFavorite(title, url) {
+		try {
+			window.external.addFavorite(url, title);
+		} catch (e) {
+			try {
+				window.sidebar.addPanel(title, url, "");
+			} catch (e) {
+				alert("抱歉，您所使用的浏览器无法完成此操作。\n\n加入收藏失败，请进入新网站后使用Ctrl+D进行添加");
+			}
+		}
+	}
+</script>
+
+<!-- 防止页面嵌套 -->
+<script type="text/javascript">
+	if(window.parent != window){
+		window.parent.location.href = window.location.href
+	}
+</script>
+
+<!-- 百度访问量统计 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?4d03af98704f77b032a31264f4a65e58";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</head>
+<body>
+
+
+		<!-- header -->
+		<div class="WC-header">
+			<div class="WC-container">
+				<div class="WCH-left">
+					<a href="#" onclick="SetHome(this,'http://www.ks.gov.cn/')">设为主页</a>				
+					<span class="WCH-line">|</span>
+					<a href="#" onclick="AddFavorite('中国昆山','http://www.ks.gov.cn/')">加入收藏</a>
+				</div>
+				<div class="WCH-right">
+				<!--  
+					<a href="#">信息报送</a>
+					<span class="WCH-line">|</span>-->
+					<a href="/zh?zh=JT">简体版</a>
+					<span class="WCH-line">|</span>
+					<a href="/zh?zh=FT">繁体版</a>
+					<span class="WCH-line">|</span>
+					
+					<a href="/english/index" target="_blank">English</a>
+					<span class="WCH-line">|</span>
+					<a href="/sjkhdxz">手机客户端下载</a>
+					<span class="WCH-line">|</span>
+					
+					<a href="/rss">RSS订阅</a>
+					<span class="WCH-line">|</span>
+					<a href="/wzdh" target="_blank">网站导航</a>
+				</div>
+			</div>
+		</div>
+		<!-- top-tu -->
+		<div class="WC-topimg">
+			<img src="/public/images/topimg.jpg" alt="" class="WCT-img">
+		</div>
+		<!-- nav -->
+		<div class="WC-nav">
+			<div class="WC-container">
+				<div class="WCN-nav">
+					<a href="/index" class="WCNN-text " >首页</a>
+					<a href="/ksgl" class="WCNN-text " >昆山概览</a>
+					<a href="/xwdt" class="WCNN-text " >新闻动态</a>
+					<a href="/xxgkzl?itemId=5063" class="WCNN-text " >信息公开</a>
+					<a href="/hdjl" class="WCNN-text " id="aaaq">互动交流</a>
+					<a href="/zwfw" class="WCNN-text"  >公共服务</a>
+					<a href="/sjkfIndex" class="WCNN-text ">数据开放</a>
+				</div>
+				<div class="WCN-search">
+					<form id="search" name="search" action="/searchS?searchText=" method="post" >
+						<span class="WCNS-ti">站内搜索</span>
+						<input type="text" name="searchText" class="WCNS-input" onblur="searchText1()" id="searchText" value=""/>
+						<button type="submit" class="WCNS-btn" >搜&nbsp;索</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<!-- nav-list -->
+		<div class="WC-navlist">
+			<div class="WC-container">
+				<div class="WCN-list">
+					<div class="WCNL-list WCNL-list1" >
+						
+					</div>
+					<div class="WCNL-list WCNL-list2" >
+						<a href="/zrgk?id=929&status=1" class="WCNLL-text" >城市概况</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/zrgk?id=1051&status=2" class="WCNLL-text" >市情市力</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/yhks" class="WCNLL-text" >音画昆山</a>
+					</div>
+					<div class="WCNL-list WCNL-list3" >
+						<a href="/ksyw?itemid=1151&tname=头条新闻" class="WCNLL-text" >头条新闻</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ksyw?itemid=428&tname=昆山要闻" class="WCNLL-text" >昆山要闻</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ksyw?tname=%e8%a7%86%e9%a2%91%e6%96%b0%e9%97%bb" class="WCNLL-text" >视频新闻</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ksyw?itemid=1600&tname=区镇快讯" class="WCNLL-text" >区镇快讯</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ksyw?itemid=1601&tname=部门动态" class="WCNLL-text" >部门动态</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ksyw?itemid=442&tname=公示公告" class="WCNLL-text" >公示公告</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ksyw?itemid=1010&tname=便民公告" class="WCNLL-text" >便民公告</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ldxghd?name=%e6%9d%9c%e5%b0%8f%e5%88%9a" class="WCNLL-text" >领导相关活动</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ksyw?itemid=1152&tname=热点专题" class="WCNLL-text" >热点专题</a>
+					</div>
+					<div class="WCNL-list WCNL-list4" >
+						<a href="/xxgk" class="WCNLL-text" >政府信息公开</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ysqgk?bmname=%e6%94%bf%e5%ba%9c%e4%bf%a1%e6%81%af%e5%85%ac%e5%bc%80&bureauId=1&roleId=158" class="WCNLL-text" >依申请公开 </a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/zxta/zxta/index?flag=0"  target="_blank" class="WCNLL-text" >人大代表建议</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/zxta/zxta/index?flag=1"  target="_blank" class="WCNLL-text" >政协提案</a>
+					</div>
+					<div class="WCNL-list WCNL-list5">
+						<a href="/ldxx2017?id=443&step=1&name=%E4%B9%A6%E8%AE%B0%E4%BF%A1%E7%AE%B1" class="WCNLL-text" >书记信箱</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ldxx2017?id=444&step=1&name=%E5%B8%82%E9%95%BF%E4%BF%A1%E7%AE%B1" class="WCNLL-text" >市长信箱</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/qzxx2017?step=1" class="WCNLL-text" >区镇部门信箱</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/xxcx" class="WCNLL-text" >信箱查询</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/hdjl/xjxd" class="WCNLL-text" >信件选登</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/sjMailTJ2017" class="WCNLL-text" target="_blank">信件统计</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/wangsxf" class="WCNLL-text" >网上信访</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/hdjl/wzdt" class="WCNLL-text" >问政大厅</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/hdjl/zxdc" class="WCNLL-text" >在线调查</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/hdjl/zfwbgc" class="WCNLL-text" >微昆山</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/hfredetail" class="WCNLL-text" >行风热线</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/zt/ksnewsIndex/index.html" class="WCNLL-text" >新闻发布会</a>
+					</div>
+					<div class="WCNL-list WCNL-list6" >
+						<a href="/wszwdt2017" target="_blank" class="WCNLL-text" >网上政务大厅</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/bsxt" target="_blank" class="WCNLL-text" >办事系统入口</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/bmfw" target="_blank" class="WCNLL-text" >热点服务</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ksyw_rdfw?itemid=1805&tname=%E6%95%99%E8%82%B2%E4%B9%8B%E7%AA%97&status=1" target="_blank" class="WCNLL-text" >专题服务</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/xzqlgk" target="_blank" class="WCNLL-text" >阳光政务</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/ggzyjy" class="WCNLL-text" >公共资源交易</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/bmfw" class="WCNLL-text" >便民服务</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/lslmy?itemId=1589&name=%E4%BD%8E%E4%BF%9D%E6%88%B7&id=1574" class="WCNLL-text" >绿色通道</a>
+						<span class="WCNLL-xian">|</span>
+						<a href="/cjfuindex" target="_blank" class="WCNLL-text" >场景式服务</a>
+						<!--  
+						<span class="WCNLL-xian">|</span>
+						<a href="http://www.wiseks.com/" class="WCNLL-text">市民公共服务平台</a>-->
+					</div>
+					<div class="WCNL-list WCNL-list7" >
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+</body>
+</html> 
+		
+		<!-- 信息公开-内容页 -->
+		<div class="WC-wrap">
+			<div class="WC-container">
+				<div class="NC-con">
+					<div class="NCC-con">
+						
+			
+			
+			
+			<div class="ICR-position">
+				当前位置：首页
+				
+					
+				
+					> 通知、其他
+				
+			</div>
+						
+						<table class="MPT-table" >
+						  <tr>
+						    <td align="center" valign="middle" class="MPT-title" >索 引 号</td>
+						    <td align="left">014189449/2017-05441</td>
+						    <td align="center" class="MPT-title" >信息分类</td>
+						    <td align="left">综合政务;本单位各类业务文件;其他</td>
+						  </tr>
+						  <tr>
+						    <td align="center" valign="middle" class="MPT-title">发布机构</td>
+						    <td align="left">昆山市经济和信息化委员会</td>
+						    <td align="center" class="MPT-title" >发布日期</td>
+						    <td align="left">2017-06-05</td>
+						  </tr>
+						  <tr>
+						    <td align="center" valign="middle" class="MPT-title" >信息名称</td>
+						    <td colspan="3" align="left">昆山市经信委预决算信息公开管理办法</td>
+						  </tr>
+						  <tr>
+						    <td align="center" valign="middle" class="MPT-title" >文件编号</td>
+						    <td align="left"></td>
+						    <td align="center" class="MPT-title" >关键词</td>
+						    <td align="left">预决算</td>
+						  </tr>
+						  <tr>
+						    <td align="center" valign="middle" class="MPT-title" >内容概述</td>
+						    <td colspan="3" align="left">昆山市经信委预决算信息公开管理办法</td>
+						  </tr>
+						</table>
+						<div class="NCCC-ti MPC-ti">
+<!-- 标题 -->
+							昆山市经信委预决算信息公开管理办法<br /><!--  资格试点推进工作联席会议制度的通知-->
+						</div>
+						<div class="NCCC-info MPC-info">
+							发布日期：2017-06-05 14:37&nbsp;&nbsp;<!-- 选择字号 【大 中 小】 --> 点击<span class="MP-num">147</span>次
+						</div>
+						<!-- <div class="MPC-copyright">昆政办发〔2016〕115号</div> -->
+						<div class="NCCC-con">
+						
+						  				
+						  
+							
+
+<iframe src="/xxgk_contentc?id=69850" marginheight="0" marginwidth="0" scrolling="auto" frameborder="0" width="100%"  id="iframe" name="iframe" onLoad="myFunction()" ></iframe>
+
+				  			
+						</div>
+						<!-- <div class="MPC-msg">昆政办发〔2016〕115号</div> -->
+						<div class="NCCC-btn">
+							<a href="#" class="MPC-btn" onclick="javascrīpt:window.print()">【打印本稿】</a>
+							<a href="#" class="MPC-btn" onclick="javascript:window.opener =null; window.open('','_self');window.close();">【关闭本页】</a>
+						</div>
+<!-- 分享2.2 -->
+<div class="bdsharebuttonbox" style="width:220px; margin: 0 auto;">
+	<!-- <a href="#" class="bds_more" data-cmd="more"></a> --><span style="float:left;height:32px;line-height:45px;font-size:16px;font-weight:bold;">分享到：</span>
+	<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+	<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+	<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+	<a href="#" class="bds_people" data-cmd="people" title="分享到人民微博"></a>
+</div>	
+					</div>				
+				</div>
+			</div>
+		</div>
+		
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="/public/css/index.css" >
+<title>昆山市人民政府</title>
+</head>
+<body>
+
+		<!-- footer -->
+		<div class="WC-footer">
+			<div class="WC-container">
+				<img src="/public/images/footimg.png" alt="" class="WCF-img">
+				<div class="WCF-copyright">
+				   主办单位：昆山市人民政府办公室&nbsp;&nbsp;承办单位：昆山市大数据资源管理中心(昆山市信息中心)<br>技术支持：江苏网进科技股份有限公司<br />
+    			   地址：中国江苏省昆山市前进中路108号 &nbsp;&nbsp;技术支持电话：0512-57303376<br />
+  				 <a href="http://www.ks.gov.cn/wzdh" target="_blank" style="color:#000000">网站地图</a> &nbsp;<a href="http://www.miitbeian.gov.cn/" target="_blank" style="color:#000000">苏ICP备05030216号</a> 网站标识码：3205830040<br />
+    			   本站自建立到现在共有 41298574 人次访问     &nbsp;&nbsp;
+				<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32058302001534" 
+					  style="display:inline-block;text-decoration:none;height:20px;line-height:20px;font-size: 12px;color: #000;">
+				<img src="/images/beian.png" style="float:left;"/>苏公网安备 32058302001534号</a>
+				</div>
+				
+				<div style="float: left;margin-top: 10px"><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript   src='http://dcs.conac.cn/js/11/181/1324/60460603/CA111811324604606030001.js' type='text/javascript'%3E%3C/script%3E"));</script></div>
+				<!--
+				<div style="float: left;margin-top: 19px"><script id="_jiucuo_" sitecode="3205830040" src="http://pucha.kaipuyun.cn/exposure/jiucuo.js"></script></div>
+				-->
+			</div>
+		</div>
+	<!-- 无障碍 http://wza.ks.gov.cn/wza/yixuan/yixuan_nav1/domready.js?sid=17645&pos=right&the=red&ha=1&snd=1&mob=1 
+	<script id="wza_sidebar" type="text/javascript" 
+	src="http://wza.ks.gov.cn/wza/yixuan/yixuan_nav1/domready.js?sid=17645&pos=right&the=red"></script>
+	<script type="text/javascript">document.write('<scr'+'ipt src="http://wza.suzhou.gov.cn/wza/yixuan/yixuan_nav1/domready.js?v='+new Date().getFullYear()+""+new Date().getMonth()+""+new Date().getDate()+'?sid=17645&the=red&pos=right&ha=1" type="text/javascript"></scri'+'pt>');</script>
+	-->
+</body>
+</html> 
+	</div>
+
+<script type="text/javascript" language="javascript">
+
+function myFunction(){
+
+	//alert("Hello World!");
+
+	//document.getElementById("iframe").height=0;  
+    //document.getElementById("iframe").height=document.getElementById("iframe").contentWindow.document.body.scrollHeight; 
+    //document.getElementById("iframe").height=parseInt(document.getElementById("iframe").height)+20;
+ 
+	//alert(document.getElementById("iframe").height);
+}
+window.onload=function(){ 
+	document.getElementById("iframe").height=0;  
+    document.getElementById("iframe").height=document.getElementById("iframe").contentWindow.document.body.scrollHeight; 
+    document.getElementById("iframe").height=parseInt(document.getElementById("iframe").height)+20;
+}
+
+</script> 
+
+</body>
+</html>

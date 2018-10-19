@@ -1,0 +1,27 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+83269);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 36pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 方正仿宋_GBK; FONT-SIZE: 16pt"><FONT face=Calibri>为加快推动高效节能技术产品的推广应用，引导绿色生产和绿色消费<SPAN lang=EN-US>,</SPAN>工业和信息化部将继续组织推荐国家鼓励发展的工业节能技术装备，并启动<SPAN lang=EN-US>2018 </SPAN>年度“能效之星”产品评价工作。根据相关文件精神，我委积极部署落实相关申报工作，以能效水平先进、节能经济性好、社会效益显著为标准，鼓励优秀企业参与申报。我市苏州强时智能制造工厂专注于节能空气压缩机的研发，制造与销售服务<SPAN lang=EN-US>,</SPAN>潜心于空压机新技术的研发与实验，有望成功申报<SPAN lang=EN-US>2018</SPAN>年工业装备类“能效之星”产品。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT></SPAN></P>
+</body>
+</html>

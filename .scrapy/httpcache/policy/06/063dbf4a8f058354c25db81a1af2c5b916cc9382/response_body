@@ -1,0 +1,27 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67428);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">在近日召开的省、市墙改工作会议上，昆山市墙改办荣获省和苏州市墙改系统的先进单位、先进集体荣誉称号。去年，昆山市墙改办在委领导的正确领导下，全面贯彻《江苏省发展新型墙体材料条例》，在经济下行压力大的形势下，全面完成省、苏州市下达的目标任务，墙改的目标任务完成数居县级市领先。今年，墙改科将以此为起点，继续做好墙材革新工作，落实<SPAN lang=EN-US>2017</SPAN>年墙改目标，确保今年墙改重点工作落到实处。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

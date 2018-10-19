@@ -1,0 +1,32 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+72094);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">各区县、各新技术新产品推广应用申报企业：</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312"> <SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 28.5pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">为贯彻落实《省政府关于进一步加强新技术新产品推广应用的意见》（苏政发〔</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2012</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">〕</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>96</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">号），切实做好新技术、新产品<A name=_GoBack></A>推广应用工作，省新技术新产品推广应用工作联席会议办公室组织编制了《省重点推广应用的新技术新产品指南（</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">年）》。现印发给你们，请认真遵照执行。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 28.5pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 30pt; TEXT-INDENT: 28.5pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal align=right><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">昆山市经济和信息化委员会</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312"> <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 30pt; TEXT-INDENT: 28.5pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal align=right><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">年</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>8</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">月</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>8</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">日</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+<P></P><A href="http://www.ks.gov.cn/Upload_zwgk/ggxx2017881564110515506.pdf" target=_ablank>附件：苏新联办发〔2017〕2号 （省重点推广应用的新技术新产品指南_2017年_07）</A>
+</body>
+</html>

@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+71501);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt; mso-themecolor: text1" lang=EN-US>7</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt; mso-themecolor: text1">月<SPAN lang=EN-US>13</SPAN>日下午，<SPAN lang=EN-US>2017</SPAN>“创客中国”预选赛暨江苏省第五届创新创业大赛中小企业创新创业大赛总决赛在苏州高新区举行，来自全省<SPAN lang=EN-US>30</SPAN>位创客精英展开激烈角逐。昆山市经信委推荐参赛的昆山炫生活信息技术有限公司和中盾金卫激光技术（昆山）有限公司分别获得大赛优胜奖和二等奖，这两家企业将由省经信委推荐参加省双创大赛，此外这<SPAN lang=EN-US>2</SPAN>家企业还将和我委推荐的泰尚新材料、华时新天网络科技、鲲鹏无人机等<SPAN lang=EN-US>3</SPAN>个项目合计<SPAN lang=EN-US>5</SPAN>个项目共同参加<SPAN lang=EN-US>10</SPAN>月份工信部主办的“创客中国”大赛。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt; mso-themecolor: text1">本次大赛，昆山经信委组织推荐的项目质量和数量均位居省内同类城市首位，并荣获省经信委颁发的“优秀组织奖”。</SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt; mso-themecolor: text1"></SPAN></P></IMG><IMG border=1 hspace=3 alt="" vspace=1 align=center src="http://www.ks.gov.cn/Upload_zwgk/ggxx201771914124892715506.jpg"></IMG>
+</body>
+</html>

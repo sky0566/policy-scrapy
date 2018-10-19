@@ -1,0 +1,35 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+73094);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-ALIGN: left; LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">各区镇：<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: left; LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">为进一步聚焦重点，有效支撑和服务智能制造的重大智能制造设备、系统和成套生产线，<SPAN style="COLOR: black">江苏省经济和信息化委员会下发了</SPAN>《关于进一步做好江苏省首台套重大装备认定工作的通知》<A name=Gwzh>（苏经信装备〔<SPAN lang=EN-US>2017</SPAN>〕<SPAN lang=EN-US>552</SPAN>号</A>），<SPAN style="COLOR: black">现将该通知转发给你们，请各区镇按照通知精神，认真组织企业进行申报。</SPAN><SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: left; LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt">联系人：沈扬<SPAN lang=EN-US><SPAN style="mso-spacerun: yes"> </SPAN><SPAN style="mso-spacerun: yes"></SPAN></SPAN>联系电话：<SPAN lang=EN-US>0512-57556847<o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: left; LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="TEXT-ALIGN: left; LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt">附件：</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">《关于进一步做好江苏省首台套重大装备认定工作的通知》（苏经信装备〔<SPAN lang=EN-US>2017</SPAN>〕<SPAN lang=EN-US>552</SPAN>号）<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal align=right><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt"></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal align=right><SPAN style="FONT-FAMILY: 仿宋_GB2312; COLOR: black; FONT-SIZE: 16pt">昆山市经济和信息化委员会<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal align=right><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">年<SPAN lang=EN-US>8</SPAN></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-bidi-font-family: 宋体">月</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>23</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">日</SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal align=right><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt"><SPAN style="COLOR: black" lang=EN-US><o:p></o:p></SPAN></SPAN></P><A href="http://www.ks.gov.cn/Upload_zwgk/ggxx201782413494536015506.zip" target=_ablank>附件：《关于进一步做好江苏省首台套重大装备认定工作的通知》（苏经信装备〔2017〕552号）</A>
+</body>
+</html>

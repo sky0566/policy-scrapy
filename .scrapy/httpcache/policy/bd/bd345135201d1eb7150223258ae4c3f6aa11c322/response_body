@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+77962);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 40pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.5; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">根据<SPAN lang=EN-US>1</SPAN>月<SPAN lang=EN-US>23</SPAN>日省政府新闻办、省经信委、省工商局、省质监局联合行文（苏经信科技〔<SPAN lang=EN-US> 2018 </SPAN>〕<SPAN lang=EN-US> 53 </SPAN>号 ）通知，经企业申报、专家遴选、网上公示、信用审查等程序，我市好孩子儿童用品、龙腾光电<SPAN lang=EN-US>2</SPAN>家企业入选<SPAN lang=EN-US>2017</SPAN>年度江苏省“自主工业品牌五十强”。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">评选“自主工业品牌五十强”是深入贯彻《中国制造<SPAN lang=EN-US> 2025 </SPAN>江苏行动纲要》的重要内容，目的是筛选出一批坚持创新驱动战略，质量管理体系健全，经济社会效益显著，品牌竞争力强的制造业转型升级领跑者，在全省范围内树立典型标杆，推动品牌质量建设，着力打造更多知名品牌。下一步，省政府新闻办、省经信委、省工商局、省质监局将依托省内主要媒体，大力宣传他们的品牌培育经验，展示江苏制造业品牌形象。 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal><SPAN lang=EN-US><o:p><FONT face=Calibri></FONT></o:p></SPAN></P>
+</body>
+</html>

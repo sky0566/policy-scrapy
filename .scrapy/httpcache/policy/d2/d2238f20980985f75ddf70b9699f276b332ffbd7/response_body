@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+73849);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 200%; TEXT-INDENT: 30pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 15pt">根据昆山市财政局《关于做好<SPAN lang=EN-US>2016</SPAN>年昆山市行政事业单位国有资产清查核实阶段工作的通知》（昆财字【<SPAN lang=EN-US>2017</SPAN>】<SPAN lang=EN-US>45</SPAN>号），我委于<SPAN lang=EN-US>2017</SPAN>年<SPAN lang=EN-US>8</SPAN>月开展资产清查工作。委托华星会计师事务所，对截至<SPAN lang=EN-US>2016</SPAN>年<SPAN lang=EN-US>12</SPAN>月<SPAN lang=EN-US>31</SPAN>日的昆山市经济和信息化委员会国有资产清查报表进行审计。按照《行政事业单位资产清查核实管理办法》等文件，在实施本次专项审计工作的基础上，对资产清查结果的合法性、公允性、可靠性发表审计意见。在审计过程中，结合我委实际情况，实施了包括检查记录或文件、抽盘实物、实施函证等审计程序，出具了专项审计报告。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 200%; TEXT-INDENT: 30pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 15pt">现根据相关审计报告，积极做好本单位的资产清查核实管理工作，对核实过程中发现的固定资产盘亏、毁损、闲置问题按照规定进行相应的处理。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P></P>
+</body>
+</html>

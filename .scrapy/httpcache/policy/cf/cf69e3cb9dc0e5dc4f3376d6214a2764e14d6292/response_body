@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+71062);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''">为加强与上海市对口部门的学习与交流，不断提升我市中小企业服务水平，<?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" Year="2017" Month="7" Day="5" IsLunarDate="False" IsROCDate="False"><SPAN lang=EN-US>7</SPAN>月<SPAN lang=EN-US>5</SPAN>日</st1:chsdate>，市经信委顾向民主任和孙蓓副主任带领相关科室负责人拜访了上海市中小企业发展服务中心。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''">上海市中小企业服务中心成立于<SPAN lang=EN-US>1999</SPAN>年<SPAN lang=EN-US>11</SPAN>月<SPAN lang=EN-US>28</SPAN>日，是由上海市政府设立的、上海市经信委下属的专司全市中小企业服务工作的非赢利机构，以整合国内外优势资源、构建社会化服务体系、提供全方位优质服务、促进中小企业健康发展为宗旨，精心打造中小企业服务平台，努力为全市的中小企业提供政策咨询、创业导向、金融支持、市场开拓、信息传递、科技创新、人才培训、企业诊断、对外交流、法律援助、展览展销等方面的服务。该中心围绕企业发展需求，在服务体系建设、创业创新活力激发及专精特新企业扶持等三方面形成了自己的特色与优势，增加了对中小企业的凝聚和影响力，受到上海市委和市政府的充分肯定。根据上海市政府的要求，该中心即将更名为上海市企业发展服务中心，全方位服务所有企业，服务中心将迎来更大的挑战与机遇。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''">本次拜访活动受到了该中心负责人的热情接待，取得了预期的效果，并达成定期交流的工作机制。通过本次学习交流，我委将认真梳理上海的经验与做法，结合昆山的实际情况，提出改进企业服务的举措，将学习经验落到工作实处。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

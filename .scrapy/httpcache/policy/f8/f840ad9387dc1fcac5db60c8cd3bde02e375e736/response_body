@@ -1,0 +1,46 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67729);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''"><FONT size=5>昆山开发区、昆山高新区、花桥经济开发区管委会，各镇人民政府：</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=5><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">根据江苏省经信委《关于征集</SPAN><SPAN lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">年大数据应用示范项目的通知》（苏经信软件〔</SPAN><SPAN lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">〕</SPAN><SPAN lang=EN-US>193</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">号）要求，现在我市开展</SPAN><SPAN lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">年江苏大数据应用示范项目推荐工作。具体事项通知如下：</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 黑体"><FONT size=5>一、申报范围<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''"><FONT size=5>围绕社会经济发展、产业转型升级、社会治理和民生服务领域大数据应用创新，征集一批大数据应用示范项目。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 黑体"><FONT size=5>二、申报主体<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''"><FONT size=5>在市内开展大数据应用的县级以上行政部门、事业单位或企业（昆山市内注册），均可申报。对于合作建设的大数据项目，应用单位可会同大数据技术提供单位联合申报。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 黑体"><FONT size=5>三、申报条件<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=5><SPAN lang=EN-US>1</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">、项目应用单位具备大数据应用基础：大数据应用单位掌握一定规模的数据量或数据来源、有大数据运用分析能力、有能力为大数据挖掘提供具体应用。</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=5><SPAN lang=EN-US>2</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">、申报项目具备行业影响力：项目具有显著的创新性、引导性和代表性，在本行业有较高的知名度，有利于提高该行业的大数据应用水平，能为本行业数据共享和标准化提供支持。</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=5><SPAN lang=EN-US>3</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">、申报项目具备示范带动作用：项目在成功应用基础上，建立了成熟的发展应用模式以及具有自身特色的推进保障机制，形成了本行业、本领域的优秀大数据解决方案，具备一定应用推广价值，能够在本行业产生重大示范效应和带动作用。</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=5><SPAN lang=EN-US>4</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">、申报项目应已经竣工，并取得明显阶段性成果，具有显著的经济效益或社会效益。（有相关证明材料）。</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 黑体"><FONT size=5>四、其他要求<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=5><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">请各申报单位填报《江苏省大数据应用示范项目申报表》，于</SPAN><SPAN lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">年</SPAN><SPAN lang=EN-US>4</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">月</SPAN><SPAN lang=EN-US>19</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">日前将申报材料纸质版（一式四份）报送市经信委软件与信息化推进科，并将电子文档发送至联系人邮箱。联系人：梁娟</SPAN><SPAN lang=EN-US>,</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">电话：</SPAN><SPAN lang=EN-US>57017933</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">，邮箱</SPAN><SPAN lang=EN-US>:108437748@qq.com</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">，办公地址：祖冲之南路</SPAN><SPAN lang=EN-US>1666</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">号清华科技园科技大厦</SPAN><SPAN lang=EN-US>4</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">楼</SPAN><SPAN lang=EN-US>402</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">室。</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''"><FONT size=5>特此通知。</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN lang=EN-US><o:p><FONT size=5></FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''"><FONT size=5>附件：江苏省大数据应用示范项目申报表</FONT></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN lang=EN-US><o:p><FONT size=5></FONT></o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal align=right><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''"><FONT size=5>昆山市经济和信息化委员会</FONT></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 30pt; MARGIN: 0cm 32pt 0pt 0cm; mso-line-height-rule: exactly" class=MsoNormal align=right><FONT size=5><SPAN lang=EN-US>2017</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">年</SPAN><SPAN lang=EN-US>4</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">月</SPAN><SPAN lang=EN-US>5</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; mso-ascii-font-family: ''Times New Roman''">日</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN lang=EN-US><o:p><FONT size=5></FONT></o:p></SPAN></P><A href="http://www.ks.gov.cn/Upload_zwgk/ggxx2017461548435013206.doc" target=_ablank>附件：江苏省大数据应用示范项目申报表</A>
+</body>
+</html>

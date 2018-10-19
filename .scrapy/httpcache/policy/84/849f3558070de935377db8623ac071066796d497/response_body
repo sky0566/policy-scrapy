@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67425);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" Year="2017" Month="3" Day="13" IsLunarDate="False" IsROCDate="False"><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>3</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">月<SPAN lang=EN-US>13</SPAN>日</SPAN></st1:chsdate><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">，根据苏州市信用办的统一部署，张家港市惠尔企业管理有限公司作为市级信用管理示范企业验收专家组来到阿基里斯人造革和广兴电子<SPAN lang=EN-US>2</SPAN>家公司进行苏州市级信用管理示范企业现场验收。验收会上，专家组成员向两家公司详细了解了公司信用体系的组织架构、政策规范、管理流程、工作绩效等情况，查阅了信用体系建设档案资料、管理台账以及相关信息系统，考察了企业生产和管理现场并约谈了企业信用体系相关工作人员。会后，专家组宣布<SPAN lang=EN-US>2</SPAN>家公司顺利通过验收，自此我市推荐的<SPAN lang=EN-US>6</SPAN>家企业全部通过苏州市级信用管理示范企业现场验收。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">苏州市级信用管理示范企业要求申报企业通过信用管理贯标验收一年以上，企业信用管理组织机构健全、信用管理制度完善、信用管理效果明显、社会信用形象良好，并在信用管理方面具有典型示范作用。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-bidi-font-family: ''Times New Roman''; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-ascii-font-family: ''Times New Roman''"></SPAN></P>
+</body>
+</html>

@@ -1,0 +1,30 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67431);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" Year="2017" Month="3" Day="15" IsLunarDate="False" IsROCDate="False"><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>3</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">月<SPAN lang=EN-US>15</SPAN>日</SPAN></st1:chsdate><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">，全市减少与淘汰落后化工产能推进会在市委党校报告厅召开，副市长金健宏出席会议并讲话。各区镇分管领导、<SPAN lang=EN-US>263</SPAN>办公室负责人，市经信委主要领导、分管领导，市发改委、城管局、交通局、环保局、安监局、市场监管局、消防大队等单位分管领导，市<SPAN lang=EN-US>263</SPAN>办公室两减组全体人员以及<SPAN lang=EN-US>230</SPAN>家化工企业负责人参加了会议。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">会上，市经信委主任顾向民作减少与淘汰落后化工产能工作报告，对今年以来的减化工作围绕“统一思想，明确对象”、“部门协同，目标一致”、“因企施策，区镇联动”和“明察暗访，扎实推进”四个方面进行了介绍，并就“狠抓数量压减”、“强化结构调整”、“加强监管力度”、“把握时间节点”等方面对下一阶段工作重点进行了部署，明确了目标和相关要求。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">副市长金健宏出席会议并讲话，他强调：一是要树立大局意识，进一步提高对化工行业开展优化提升整治专项行动必要性的认识；二是要深化供给侧结构性改革，以实施专项行动为突破口，促进全市化工行业发展水平全面提升；三是要抓住优化提升整治工作重点，确保专项行动抓实抓准抓出成效；四是要强化工作责任落实，严格执行责任追究和问责制度。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P></P>
+</body>
+</html>

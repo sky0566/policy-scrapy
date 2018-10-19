@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+70941);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 华文中宋; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt" lang=EN-US>6</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 华文中宋; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">月<SPAN lang=EN-US>24</SPAN>日上午，江苏南信华航智能制造学院（以下简称“学院”）在昆山高新区机器人产业园成立。学院采取“产教融合”人才培养模式，</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 华文中宋">为昆山智能制造产业发展提供专业技能人才，是学院结合地方产业实际，坚持产教融合，力争为区域经济发展做出更大贡献的有力体现，也是学院在专业设置、人才培养、校企对接等方面的又一创新举措，表明企业和高校在推动企业转型升级方面已取得实质性进展。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 华文中宋; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">近年来，我市深入贯彻“中国制造<SPAN lang=EN-US>2025</SPAN>”战略，明确将机器人及智能制造产业作为昆山未来发展的主导产业加以培育。截至<SPAN lang=EN-US>2016</SPAN>年底，全市拥有机器人及智能装备企业<SPAN lang=EN-US>276</SPAN>家，实现主营业务销售收入<SPAN lang=EN-US>305</SPAN>亿元。市经信委相关负责人表示，学院的成立，将为我市智能制造人才培育探索一条经验之路，也为产业发展提供更加有力的支撑，进一步助推“昆山制造”向“昆山智造”转变。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 华文中宋; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">学院由南京信息职业技术学院与江苏华航威泰机器人科技有限公司合作共建，位于昆山高新区机器人产业园内，面积<SPAN lang=EN-US>1600</SPAN>多平方米，集教学、<SPAN lang=EN-US>VR</SPAN>模拟、实训等功能于一体。学院注重技术、理念双管齐下。江苏华航威泰机器人科技有限公司与南京信息职业技术学院、上海<SPAN lang=EN-US>ABB</SPAN>工程有限公司签署机器人技术应用领域人才培养三方合作备忘录，三方将密切合作，在技术研发、产品设备共享、师资团队建设等方面相互支持。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>

@@ -1,0 +1,30 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+69815);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<SPAN style=''FONT-SIZE: 16pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: "Times New Roman"; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA''>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0"><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">今年，昆山联滔电子有限公司发展形势喜人，前</SPAN><SPAN lang=EN-US style="FONT-SIZE: 16pt"><FONT face=Calibri>4</FONT></SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">个月实现销售达</SPAN><SPAN lang=EN-US style="FONT-SIZE: 16pt"><FONT face=Calibri>12</FONT></SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">亿元，同比增长</SPAN><SPAN lang=EN-US style="FONT-SIZE: 16pt"><FONT face=Calibri>111%</FONT></SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">。企业经营业绩快速增长的主要原因是公司研发的无线充电模组已成为争夺市场的新亮点。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 16pt"><FONT face=Calibri>1-4</FONT></SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">月，无线充电模组实现销售</SPAN><SPAN lang=EN-US style="FONT-SIZE: 16pt"><FONT face=Calibri>4.4</FONT></SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">亿元，同比增长</SPAN><SPAN lang=EN-US style="FONT-SIZE: 16pt"><FONT face=Calibri>1.8</FONT></SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">倍，对公司销售增长的贡献率达</SPAN><SPAN lang=EN-US style="FONT-SIZE: 16pt"><FONT face=Calibri>44%</FONT></SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">，拉动公司销售增长</SPAN><SPAN lang=EN-US style="FONT-SIZE: 16pt"><FONT face=Calibri>50%</FONT></SPAN><SPAN style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 16pt"><?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; mso-char-indent-count: 2.0"><SPAN lang=EN-US><o:p><FONT size=3 face=Calibri></FONT></o:p></SPAN></P>
+<P></SPAN></P>
+</body>
+</html>

@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+69232);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 32pt; TEXT-INDENT: 29.05pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体">根据苏州市经信委下发的《关于下达<SPAN lang=EN-US>2017</SPAN>年节能监察（测）计划的通知》（苏经信节综〔<SPAN lang=EN-US>2017</SPAN>〕<SPAN lang=EN-US>3</SPAN>号）文件，苏州节能监察中心于<SPAN lang=EN-US>5</SPAN>月<SPAN lang=EN-US>7</SPAN>日至<SPAN lang=EN-US>15</SPAN>日对昆山市<SPAN lang=EN-US>10</SPAN>家重点用能单位开展了节能监察（测）工作，昆山经信委资源科、各区镇节能办工作人员参加了监察。<SPAN lang=EN-US> <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 32pt; TEXT-INDENT: 29.05pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体">此次监察中发现盛旺汽车零部件（昆山）有限公司和昆山长运电子工业有限公司分别缺少<SPAN lang=EN-US>1</SPAN>名能管师和<SPAN lang=EN-US>1</SPAN>名助理能管师，企业均已承诺计划派员参加培训。昆山恩斯克有限公司存在国家明令淘汰的生产设备<SPAN lang=EN-US>Y2<?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chmetcnv UnitName="l" SourceValue="180" HasSpace="False" Negative="True" NumberType="1" TCSC="0" w:st="on">-180L</st1:chmetcnv>-4 </SPAN>型<SPAN lang=EN-US>2003</SPAN>年<SPAN lang=EN-US>12</SPAN>月前生产的<SPAN lang=EN-US>6</SPAN>台电动机（共计<SPAN lang=EN-US>132 Kw</SPAN>），执法组现场开具限期整改通知书，企业承诺在<st1:chsdate w:st="on" Year="2017" Month="11" Day="15" IsLunarDate="False" IsROCDate="False"><SPAN lang=EN-US>2017</SPAN>年<SPAN lang=EN-US>11</SPAN>月<SPAN lang=EN-US>15</SPAN>日前</st1:chsdate>完成整改。</SPAN></P>
+</body>
+</html>

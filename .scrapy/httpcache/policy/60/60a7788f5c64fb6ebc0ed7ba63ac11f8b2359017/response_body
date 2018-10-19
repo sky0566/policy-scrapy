@@ -1,0 +1,30 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+68383);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate IsROCDate="False" IsLunarDate="False" Day="21" Month="4" Year="2017" w:st="on"><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>4</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">月</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>21</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">日</SPAN></st1:chsdate><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">上午，苏州市工业经济运行分析会暨重点项目推进会在昆召开，分析总结一季度工业经济运行情况，安排部署下一阶段工作。苏州市委常委、副市长吴庆文出席会议，苏州市委常委、昆山市委书记姚林荣，昆山市领导陈辰扬、金健宏陪同考察或参加会议。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">会议指出，工业经济是经济发展的引擎和支柱。要加快推进重大工业项目投资速度，围绕苏州市重点发展的六大战略性新兴产业，加强项目招商，强化产业对接，助推重大工业项目落地；要结合苏州实际，聚力创新驱动，加速产业转型升级；要加快工业企业资源集约利用工作进度，逐步把工业企业资源集约利用大数据平台打造升级成为功能更完善、运用更广泛的工业大数据平台，更好发挥其在服务工业经济转型升级的支撑作用；要全面开展</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>“</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">地条钢</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>”</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">违法生产企业</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>“</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">回头看</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US>”</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">工作，认真开展排查整治。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-ascii-font-family: ''Times New Roman''">会前，与会人员实地考察了昆山之奇美、友达光电等企业。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+<P></P>
+</body>
+</html>

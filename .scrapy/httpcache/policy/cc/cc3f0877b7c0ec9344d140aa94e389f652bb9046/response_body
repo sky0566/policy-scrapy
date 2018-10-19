@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+75321);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 仿宋_GB2312">省经信投资处刘蓓副处长于<SPAN lang=EN-US>10</SPAN>月<SPAN lang=EN-US>18</SPAN>日来昆就萨驰华辰智能车间相关情况进行现场调研。在昆山经信委相关人员陪同下参观了萨驰华辰智能车间，听取了企业负责人对轮胎成型机生产情况的介绍，详细询问了企业在智能车间项目中取得的经验和遇到的困难，并听取了相关政策建议。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 仿宋_GB2312">刘蓓副处长</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">对萨驰华辰智能车间建设情况表示高度认可，对昆山市经信委在支持企业智能车间建设方面的相关工作给予充分肯定，并明确围绕智能车间项目省经信委将逐步给予更多扶持。</SPAN></P>
+</body>
+</html>

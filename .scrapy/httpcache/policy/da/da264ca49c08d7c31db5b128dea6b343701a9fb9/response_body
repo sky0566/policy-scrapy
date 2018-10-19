@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+77963);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 40pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.5; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">根据省经信委最新公示，我市中信博新能源科技、裕同印刷、同日工业自动化<SPAN lang=EN-US>3</SPAN>家企业被评为<SPAN lang=EN-US>2017</SPAN>年度省服务型制造示范企业。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; BACKGROUND: #f9f9f9; COLOR: #070707; FONT-SIZE: 16pt">服务型制造，是制造与服务融合发展的新型产业形态，是制造业转型升级的重要方向。制造业企业通过创新优化生产组织形式、运营管理方式和商业发展模式，不断增加服务要素在投入和产出中的比重，从以加工组装为主向“制造<SPAN lang=EN-US>+</SPAN>服务”转型，从单纯出售产品向出售“产品<SPAN lang=EN-US>+</SPAN>服务”转变，有利于延伸和提升价值链，提高全要素生产率、产品附加值和市场占有率。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 40pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.5; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; BACKGROUND: #f9f9f9; COLOR: #070707; FONT-SIZE: 16pt">加快培育服务型制造企业是贯彻落实《中国制造</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; BACKGROUND: #f9f9f9; COLOR: #070707; FONT-SIZE: 16pt; mso-hansi-font-family: ''Times New Roman''; mso-bidi-font-family: ''Times New Roman''" lang=EN-US>2025</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; BACKGROUND: #f9f9f9; COLOR: #070707; FONT-SIZE: 16pt">》，促进制造业由生产型制造向服务型制造转变的重要抓手，下一步，市经信委将进一步加强引导培育，不断提升服务型制造规模和水平。</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

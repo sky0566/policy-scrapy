@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+69260);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<SPAN style="FONT-SIZE: 16pt" lang=EN-US>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 14pt" lang=EN-US><SPAN style="mso-spacerun: yes"> </SPAN></SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>5</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">月</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>16</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">日，经中国通用仓库等级评定委员会专家组按《通用仓库等级》（</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><FONT face=Calibri>GB/T21072-2007</FONT></SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 16pt; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">）对昆山华裕供应链管理有限公司仓库设施条件、从业人员素质、服务功能、管理水平等四方面进行现场综合考评，公司仓库被认定为最高等级即“五星级库区”，这是昆山第三家获此殊荣的物流企业（前两家分别是昆山宝湾国际物流有限公司和江苏天合国际物流有限公司）。</SPAN><SPAN style="FONT-SIZE: 16pt" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P></SPAN>
+</body>
+</html>

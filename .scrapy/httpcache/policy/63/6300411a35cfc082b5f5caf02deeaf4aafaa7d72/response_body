@@ -1,0 +1,31 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+74237);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体">
+<P style="TEXT-ALIGN: left; LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan; mso-line-height-rule: exactly" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体">本月初，昆山市经信委、昆山市环保局、昆山市财政局组织行业专家对凯博电脑（昆山）有限公司清洁生产审核工作组织了现场验收。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: left; LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan; mso-line-height-rule: exactly" class=MsoNormal align=left><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-hansi-font-family: 宋体">凯博电脑（昆山）有限公司本轮清洁生产共实施了两个中高费方案，共投资<SPAN lang=EN-US>822.36</SPAN>万元。其中空压机、冰水机等辅助设施升级改造方案投资<SPAN lang=EN-US>63.31</SPAN>万元。改造完成后可减少废气产生，节电<SPAN lang=EN-US>0.48</SPAN>万<SPAN lang=EN-US>kwh/</SPAN>年，每年可节约成本<SPAN lang=EN-US>25.576</SPAN>万元；引进全自动贴片机替换方案投资<SPAN lang=EN-US>759.05</SPAN>万元。提高生产效率，节电<SPAN lang=EN-US>0.9</SPAN>万<SPAN lang=EN-US>kwh/</SPAN>年，节约人工<SPAN lang=EN-US>5</SPAN>人，每年可节约成本<SPAN lang=EN-US>246.08</SPAN>万元。 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN lang=EN-US><o:p><FONT size=3 face=Calibri></FONT></o:p></SPAN></P>
+<P style="TEXT-ALIGN: left; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan" class=MsoNormal align=left></SPAN><IMG style="WIDTH: 390px; HEIGHT: 304px" border=1 hspace=3 alt="" vspace=1 align=center src="http://www.ks.gov.cn/Upload_zwgk/ggxx20179211353434215506.jpg" width=988 height=1269></IMG><IMG style="WIDTH: 419px; HEIGHT: 302px" border=1 hspace=3 alt="" vspace=1 align=center src="http://www.ks.gov.cn/Upload_zwgk/ggxx201792113532461715506.bmp" width=880 height=1212></IMG></P>
+</body>
+</html>

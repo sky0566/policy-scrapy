@@ -1,0 +1,29 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+75805);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:chsdate w:st="on" Year="2017" Month="10" Day="31" IsLunarDate="False" IsROCDate="False"><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; BACKGROUND: white; COLOR: #262626; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体" lang=EN-US>10</SPAN><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; BACKGROUND: white; COLOR: #262626; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体">月<SPAN lang=EN-US>31</SPAN>日</SPAN></st1:chsdate><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; BACKGROUND: white; COLOR: #262626; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体" lang=EN-US>-<st1:chsdate w:st="on" Year="2017" Month="11" Day="01" IsLunarDate="False" IsROCDate="False">11<SPAN lang=EN-US><SPAN lang=EN-US>月01</SPAN></SPAN><SPAN lang=EN-US><SPAN lang=EN-US>日</SPAN></SPAN></st1:chsdate><SPAN lang=EN-US>，</SPAN></SPAN><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">受省墙改办委托，省建筑工程质量检测中心工作人员在我委墙改科工作人员的陪同下对</SPAN><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">昆山宏兴建材有限公司、昆山市易方新型建材有限公司等六家新墙材企业，共<SPAN lang=EN-US>9</SPAN>个产品进行了现场质量抽检。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; BACKGROUND: white; COLOR: #333333; FONT-SIZE: 16pt">在企业现场，抽查人员</SPAN><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体">询问了企业检验人员产品质量检测工作的进展情况，</SPAN><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; BACKGROUND: white; COLOR: #333333; FONT-SIZE: 16pt">抽取检测样本并进行编号，由企业自行寄往</SPAN><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">省检测中心进行</SPAN><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; BACKGROUND: white; COLOR: #333333; FONT-SIZE: 16pt">各项指标检测。本次抽检</SPAN><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">共涉及承重混凝土砖、蒸压加砌块及蒸压灰砂砖三类产品<SPAN style="BACKGROUND: white; COLOR: #333333">。</SPAN></SPAN><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; BACKGROUND: white; COLOR: #333333; FONT-SIZE: 16pt">省墙改办抽检活动有助于进一步提高我市新墙材企业对产品质量的管理意识，促进新墙材行业健康有序的发展。</SPAN><SPAN style="LINE-HEIGHT: 200%; FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 宋体; mso-bidi-font-family: 宋体" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

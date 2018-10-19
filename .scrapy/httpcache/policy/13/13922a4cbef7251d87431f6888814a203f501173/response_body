@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+78604);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt" lang=EN-US>2018</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">年<SPAN lang=EN-US>2</SPAN>月<SPAN lang=EN-US>7</SPAN>号，由我委主办的 “<SPAN lang=EN-US>2018</SPAN>年昆山市工业企业信息安全培训班”在昆山清华科技园成功举行！ <SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">为进一步提高我市工业企业的网络安全意识，增强工控系统安全防护能力和管理水平，推动工业企业落实《工业控制系统信息安全防护指南》，指导企业开展<SPAN lang=EN-US>2018</SPAN>年工业控制系统信息安全检查工作，本次培训活动邀请了省信息安全测评中心认证检查中心的相关领导和专家为培训班授课。各位专家通过解读《工业控制系统信息安全防护指南》、《工业控制系统信息安全事件应急管理工作指南》，分析了现今工业信息安全形势、工控系统信息安全风险，介绍了工控系统信息安全防护对策，并通过对企业信息安全的常见问题的分析，就企业安全体系的建设提出了相关思路和建议。专家们以理论知识和实际案例相结合的培训模式，使参加培训的人员加深了对工业企业网络安全重要性的认识，为我市今后深入开展工业企业信息安全方面工作奠定了良好的基础。震雄铜业集团有限公司、昆山诺克科技汽车装备制造有限公司、江苏盛纺纳米材料科技股份有限公司等<SPAN lang=EN-US>100</SPAN>名企业信息安全负责人参加了此次培训。</SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 9pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

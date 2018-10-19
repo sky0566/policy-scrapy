@@ -1,0 +1,33 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+81121);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 29pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋_GB2312">昆山开发区、昆山高新区、花桥经济开发区管委会，各镇人民政府<SPAN lang=EN-US>,</SPAN>各相关企业：<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 29pt; TEXT-INDENT: 32.25pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋_GB2312">为贯彻落实《中国制造<SPAN lang=EN-US>2025</SPAN>》（国发〔<SPAN lang=EN-US>2015</SPAN>〕<SPAN lang=EN-US>28</SPAN>号）关于推动发展服务型制造，开展试点示范相关工作部署，按照《发展服务型制造专项行动指南》（工信部联产业〔<SPAN lang=EN-US>2016</SPAN>〕<SPAN lang=EN-US>231</SPAN>号）要求，工信部近期组织开展第二批服务型制造示范遴选工作。根据省经信委要求，现将有关申报通知转发给你们，因名额有限，请组织符合条件的企业、项目和平台申报，对照要求认真准备相关申报材料，优先推荐获评或曾申报省级服务型制造示范的企业。申报汇总表、各类申报书和随附材料纸质件（一式<SPAN lang=EN-US>4</SPAN>份）及电子版请于<SPAN lang=EN-US>5</SPAN>月<SPAN lang=EN-US>30</SPAN>日前报送市经信委科技质量科。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 29pt; TEXT-INDENT: 32.25pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋_GB2312">联系电话：<SPAN lang=EN-US>57017936<o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 29pt; TEXT-INDENT: 32.25pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋_GB2312">邮箱：<SPAN lang=EN-US>756588194@qq.com<o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 29pt; TEXT-INDENT: 32.25pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋_GB2312">附件：工信部办公厅关于开展第二批服务型制造示范遴选工作的通知（工信厅产业函〔<SPAN lang=EN-US>2018</SPAN>〕<SPAN lang=EN-US>145</SPAN>号）<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 29pt; TEXT-INDENT: 32.25pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal align=right><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋_GB2312">昆山市经济和信息化委员会<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 29pt; TEXT-INDENT: 32.25pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly" class=MsoNormal align=right><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋_GB2312" lang=EN-US>2018</SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: 仿宋_GB2312">年<SPAN lang=EN-US>5</SPAN>月<SPAN lang=EN-US>14</SPAN>日<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P><A href="http://www.ks.gov.cn/Upload_zwgk/ggxx201851415165451915506.rar" target=_ablank>附件：工业和信息化部办公厅关于开展第二批服务型制造示范遴选工作的通知</A>
+</body>
+</html>

@@ -1,0 +1,9 @@
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=6633D46B7C9C7EF3A2C4AE02889AA9DB; Path=/; HttpOnly
+Set-Cookie: insert_cookie=98184645; path=/
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Date: Thu, 18 Oct 2018 03:46:32 GMT
+Via: 1.1 ID-7716077300627007 uproxy-3
+Via: 1.1 ID-7716077300627010 uproxy-3

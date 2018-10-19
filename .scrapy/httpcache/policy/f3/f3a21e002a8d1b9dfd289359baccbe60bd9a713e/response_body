@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+69848);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-SIZE: 16pt; mso-bidi-font-size: 14.0pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><FONT face=Calibri>2017</FONT></SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Calibri">年</SPAN><SPAN style="FONT-SIZE: 16pt; mso-bidi-font-size: 14.0pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><FONT face=Calibri>5</FONT></SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Calibri">月</SPAN><SPAN style="FONT-SIZE: 16pt; mso-bidi-font-size: 14.0pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><FONT face=Calibri>17</FONT></SPAN><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Calibri">日，由四家人工智能及服务机器人公司参加的新品发布活动在中国（昆山）品牌产品进口交易会哈工大机器人展台举行。当天发布的四款新品分别是哈工大机器人公司的爬楼轮椅机器人、三生万物公司的智能服务机器人、穿山甲机器人公司的迎宾机器人、天愈医疗机器人公司的康复医疗机器人。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-bidi-font-size: 14.0pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-bidi-font-size: 14.0pt; mso-ascii-font-family: Calibri">这四款新品智能化程度高，市场潜力大，而且各有所长，吸引了在场的一大批专业观众眼球并驻足观看。活动现场，主持人与专业观众还进行了互动。爬楼轮椅机器人是哈工大机器人公司的新产品，能够搭载老人、残疾人上下楼梯，填补了国内空白。三生万物公司的智能服务机器人，具有意念控制和感知功能，具有良好的交互能力。穿山甲公司的迎宾机器人，可应用在商店、公司前台、酒店大堂等，已获华住集团、海澜之家等公司订购。哈尔冰天愈康复医疗机器人公司是习总书记视察过的机器人企业，已被哈工大机器人公司收购，其在发布活动中展示的康复医疗机器人填补了国内同类市场的空白。上述四款产品未来全部在昆山量产，面向全国市场。</SPAN><SPAN style="FONT-SIZE: 16pt; mso-bidi-font-size: 14.0pt; mso-fareast-font-family: 仿宋_GB2312" lang=EN-US><o:p></o:p></SPAN></P>
+</body>
+</html>

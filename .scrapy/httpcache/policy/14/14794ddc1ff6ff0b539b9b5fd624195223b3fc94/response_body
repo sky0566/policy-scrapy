@@ -1,0 +1,28 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+67340);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt; mso-hansi-font-family: Calibri; mso-bidi-font-family: ''Times New Roman''; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA" lang=EN-US><SPAN style="mso-spacerun: yes">
+<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">为确保<SPAN lang=EN-US>3</SPAN>月<SPAN lang=EN-US>20</SPAN>日前完成苏州市委提出的 “每家工业企业精准落地上图、每一块工业用地精准落实到相应的企业”这一目标，市工业企业资源集约利用工作小组在<SPAN lang=EN-US>3</SPAN>月<SPAN lang=EN-US>9-10</SPAN>日逐一走访区镇进行督查指导后，于<SPAN lang=EN-US>3</SPAN>月<SPAN lang=EN-US>13</SPAN>日再次召集各区镇进行集中督查。各区镇分管领导分别汇报了工业用地调查进程，并表示尽力确保在<SPAN lang=EN-US>3</SPAN>月<SPAN lang=EN-US>15</SPAN>日前完成本地区工业用地调查。市经信委陆文华副主任代表领导小组对各区镇组织精干力量加班加点开展工作表示充分肯定，要求各区镇必须在下班前将异地经营企业排摸情况上报领导小组办公室，以方便对异地经营企业再次进行工业用地排查，并要求各区镇必须按计划完成工业用地调查，绝不能拖后腿。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P></SPAN></SPAN>
+</body>
+</html>

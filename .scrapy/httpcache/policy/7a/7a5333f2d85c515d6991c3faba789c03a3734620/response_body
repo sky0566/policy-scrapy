@@ -1,0 +1,213 @@
+
+
+
+ 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>昆山市人民政府</title>
+<link rel="stylesheet" href="/public/css/index.css" >
+<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+<script src="/public/js/index.js" ></script>
+<script src="/public/js/default.js" ></script>
+<script src="/public/js/slider1.js" ></script>
+<script src="/public/js/responsiveslides.min.js" ></script>
+<script src="/public/js/L_slide.js"></script>
+<script src="/public/js/scroll.js"></script>
+<script type="text/javascript">
+function serch(){
+	var serchid = $("#serchid").val();
+	var gjz = $.trim($("#gjz").val());
+	var url= "";
+	if(gjz =="")
+	    url="/result?bureauId=41&typeId=1&ml_Id=1";
+	else
+		url="/serch?serchid="+serchid+"&gjz="+gjz+"&bureauId=41";
+	document.all.listForm.action="";
+    document.all.listForm.action=url;
+	$("#listForm").submit();
+}
+(function(){document.all.listForm.action="/result?bureauId=41&typeId=1&ml_Id=1";})
+</script>
+</head>
+<body >
+<div class="wrap-container1">
+<form id="listForm" name="listForm" method="post" action="">
+ 						
+					<div class="ML-righten">
+						<span class="MLR-text" >昆山市经济和信息化委员会</span>
+						<a href="http://oa.ks.gov.cn" target="_blank" class="MLR-entrance" ><img src="/images/ml-entrance.png" alt=""></a>
+					</div>
+					
+					<div class="WCTCKTCR-ti">
+						<a href="#" class="WCTCKBCRT-ti WCTCKTCRT-ti">主题分类</a>
+						<div class="MLR-search">
+							<select name="" id="serchid" class="MLRS-select" >
+								<option value="1" >---标题---</option>
+								<option value="2" >---索引号---</option>
+							</select>
+							<input type="text" placeholder="关键字" id="gjz" class="MLRS-input" value="" />
+							<button type="button" class="MLRS-btn" onclick="serch()"><img src="/images/ml-search.png" alt="">搜索</button>
+						</div>
+					</div>
+					<div class="ICR-con IPA-wcon">
+					  <ul class="ICRC-con OS-con" >
+						
+							
+								
+							
+							<li>
+								<a href="/xxgk_nry?id=85064" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-08338]</span>转发关于开展江苏省人工智能产业发展思路与对策研究课题调研的通知</a>
+								<span class="ICRCC-date">2018-10-18</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=84809" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-08074]</span>关于开展昆山市半导体产业领域企业2018年度第二批入库申报的通知</a>
+								<span class="ICRCC-date">2018-10-08</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=84808" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-08073]</span>关于组织申报第二十二批苏州市认定企业技术中心的通知</a>
+								<span class="ICRCC-date">2018-10-08</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=84768" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-08031]</span>关于印发昆山市四大产业集群企业认定办法（试行）的通知</a>
+								<span class="ICRCC-date">2018-09-30</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=84432" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-07676]</span>2018年昆山市转型升级创新发展（工业经济）等专项第三批拟立项目公示</a>
+								<span class="ICRCC-date">2018-09-19</span>
+							</li>
+						
+							
+								
+									</ul>
+									<ul class="ICRC-con OS-con" >
+								
+							
+							<li>
+								<a href="/xxgk_nry?id=84399" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-07639]</span>2017年度新能源汽车推广应用市财政补贴资金清算的公示</a>
+								<span class="ICRCC-date">2018-09-19</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=84044" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-07259]</span>转发省经信委关于梳理关键技术短板的通知</a>
+								<span class="ICRCC-date">2018-08-28</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=84006" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-07220]</span>2018年昆山市工业企业技术改造综合奖补资金拟立项目公示</a>
+								<span class="ICRCC-date">2018-08-23</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=84002" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-07216]</span>2018年昆山市转型升级创新发展（工业经济）等专项第二批拟立项目公示</a>
+								<span class="ICRCC-date">2018-08-23</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=83901" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-07106]</span>转发省经信委《关于组织开展2018年江苏省首台套重大装备认定工作的通知》的通知</a>
+								<span class="ICRCC-date">2018-08-16</span>
+							</li>
+						
+							
+								
+									</ul>
+									<ul class="ICRC-con OS-con" >
+								
+							
+							<li>
+								<a href="/xxgk_nry?id=83809" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-07006]</span>关于2017年苏州市自主品牌大企业与领军企业先进技术研究院拟奖补项目的公示</a>
+								<span class="ICRCC-date">2018-08-09</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=83269" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-06432]</span>开展2018年度国家工业节能技术装备推荐及“能效之星”产品评价工作</a>
+								<span class="ICRCC-date">2018-07-19</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=83259" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-06420]</span>2017年经信委党建工作总结及2018年党建工作要点</a>
+								<span class="ICRCC-date">2018-07-19</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=83245" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-06406]</span>墙改办开展进企业系列宣传活动</a>
+								<span class="ICRCC-date">2018-07-19</span>
+							</li>
+						
+							
+							<li>
+								<a href="/xxgk_nry?id=83242" target="_blank" class="ICRCC-list OSC-list" ><span>[014189449/2018-06403]</span>昆山市经济和信息化委员会公职律师管理制度</a>
+								<span class="ICRCC-date">2018-07-19</span>
+							</li>
+						
+						</ul>
+					</div>
+				   
+
+
+<link rel="stylesheet" href="/public/css/index.css" >
+<script type="text/javascript" src="/plugins/jquery-1.8.2.min.js"></script>
+<script src="/public/js/index.js" ></script>
+<script src="/public/js/default.js" ></script>
+<script src="/public/js/slider1.js" ></script>
+<script src="/public/js/responsiveslides.min.js" ></script>
+<script src="/public/js/L_slide.js"></script>
+<script src="/public/js/scroll.js"></script>
+<script>
+function gotoPage(currentSelect) {
+	var pn = currentSelect;
+	if(isNaN(pn)){
+		 alert('必须输入数字!');    
+	}else{
+		selectPage(pn);
+	}
+	
+ 	
+}
+
+function selectPage(pn){
+	var page = 34;
+	if(pn>page){
+		pn=page;
+	}
+	if(pn<1){
+		pn = 1;
+	}
+	$("#currentPage").val(pn);
+	$("#listForm").submit();
+}
+</script>
+<div class="ICR-page">
+	共<span class="TCRP-num">505</span>条记录，<span class="TCRP-num">1/34</span>
+	<a href="#" class="TCRP-ye" onclick="selectPage(0)"><<</a>
+	<a href="#" class="TCRP-ye" onclick="selectPage(1)">首页</a>
+	<a href="#" class="TCRP-ye" onclick="selectPage(0)">上一页</a>
+	<a href="#" class="TCRP-ye" onclick="selectPage(2)">下一页</a>
+	<a href="#" class="TCRP-ye" onclick="selectPage(34)">尾页</a>
+	<a href="#" class="TCRP-ye" onclick="selectPage(2)">>></a>
+	转到第<input type="text" onchange="gotoPage(this.value)"  class="TCRP-input" />页
+</div>
+<input type="hidden" id="currentPage" name="currentPage" value="1"/>
+<input type="hidden" id="recordCount" name="recordCount" value="505"/>
+				</form>
+</div>
+</body>
+</html>

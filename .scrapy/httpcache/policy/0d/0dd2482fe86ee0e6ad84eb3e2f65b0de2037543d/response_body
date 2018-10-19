@@ -1,0 +1,27 @@
+
+ 
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>昆山市人民政府</title>
+	<script src="/public/bower_components/jquery/jquery.min.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+		  if(top.location == self.location){
+			  window.location.replace("/xxgk_nry?id="+68783);
+		  }
+		});
+	</script>
+	
+	<style type="text/css">
+		html{overflow-y:hidden;}
+	</style>
+</head>
+<body>
+
+	
+	
+	<P style="LINE-HEIGHT: 30pt; TEXT-INDENT: 32pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly" class=MsoNormal><SPAN style="FONT-FAMILY: 仿宋_GB2312; FONT-SIZE: 16pt">近日，苏州市墙改办吴雁群主任带队来昆调研装配式建筑构件企业，我委分管领导和墙改科有关同志陪同。苏州市调研组赴昆山三一筑工有限公司和昆山中民筑友科技有限公司，实地了解两家生产企业的基本情况。两家企业分别介绍了装配式建筑构件的生产技术、工艺流程、生产经验和在昆山的生产经营情况。苏州市调研组认真听取了企业和昆山市的有关汇报，并就企业提出的相关问题进行了解答。调研组表示将根据江苏省新型墙体材料产业发展导向，认真研究预制装配式构件的相关认定和支持鼓励工作，希望两家企业抓住国家大力发展绿色建筑的契机，促进建筑产业化，努力扩大市场份额，为昆山和苏州的经济发展和墙材事业做出更大的贡献。<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+</body>
+</html>
