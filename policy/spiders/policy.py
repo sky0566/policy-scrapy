@@ -26,8 +26,12 @@ class Myspider(scrapy.Spider):
             data = {'currentPage': str(i), 'recordCount': '505'}
             yield scrapy.FormRequest("http://www.ks.gov.cn/result?bureauId=41&status=1?currentPage=1&readCount=505",
                                     formdata=data, callback=self.parse)
-        # yield Request("http://www.ks.gov.cn/result?bureauId=43&status=1?currentPage=1&readCount=505", self.parse)
-        # yield Request('http://www.ks.gov.cn/zwgkml?status=1&bureauId=484&roleId=210?currentPage=1&readCount=505', self.parse)  # 改成post请求
+            yield scrapy.FormRequest("http://www.ks.gov.cn/result?bureauId=43&status=1?currentPage=1&readCount=505",
+                                     formdata=data,callback=self.parse)
+        for j in range(1, 50):
+            data = {'currentPage': str(j), 'recordCount': '1310'}
+            yield scrapy.FormRequest('http://www.ks.gov.cn/result?bureauId=484',
+                                     formdata=data,callback=self.parse)  # 改成post请求
 
     def parse(self, response):
         for i in range(0, 15):

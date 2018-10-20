@@ -64,9 +64,9 @@ ROBOTSTXT_OBEY = False
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'policy.pipelines.PolicyPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'policy.pipelines.PolicyPipeline': 1,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -91,3 +91,9 @@ HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 REDIRECT_ENABLED = False # 关掉重定向,不会重定向到新的地址
 HTTPERROR_ALLOWED_CODES = [302,] # 返回302时,按正常返回对待,可以正常写入cookie
+
+MYSQL_HOSTS = '127.0.0.1'
+MYSQL_USER = 'root'
+MYSQL_PASSWORD = 'root'
+MYSQL_PORT = '3306'
+MYSQL_DB = 'test'
